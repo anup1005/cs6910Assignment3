@@ -1,0 +1,7130 @@
+input sequence      sikhaaega
+ actual output       	सिखाएगा
+ predicted output    सिखाएगा
+
+
+input sequence      independence
+ actual output       	इंडिपेंडेंस
+ predicted output    इंडिपेंडेंस
+
+
+input sequence      kolhapur
+ actual output       	कोल्हापुर
+ predicted output    कोल्हापुर
+
+
+input sequence      glendale
+ actual output       	ग्लेंडल
+ predicted output    ग्लेंडल
+
+
+input sequence      ambikapur
+ actual output       	अम्बिकापुर
+ predicted output    अम्बिकापुर
+
+
+input sequence      foohadta
+ actual output       	फूहड़ता
+ predicted output    फूहड़ता
+
+
+input sequence      sametati
+ actual output       	समेटती
+ predicted output    समेटती
+
+
+input sequence      ukhrul
+ actual output       	उखरुल
+ predicted output    उखरुल
+
+
+input sequence      iqbal
+ actual output       	इक़बाल
+ predicted output    इक़बाल
+
+
+input sequence      sohrai
+ actual output       	सोहराई
+ predicted output    सोहराई
+
+
+input sequence      theinga
+ actual output       	ठेंगा
+ predicted output    ठेंगा
+
+
+input sequence      saahityotsav
+ actual output       	साहित्योत्सव
+ predicted output    साहित्योत्सव
+
+
+input sequence      leedaron
+ actual output       	लीडरों
+ predicted output    लीडरों
+
+
+input sequence      murgipaalan
+ actual output       	मुर्गीपालन
+ predicted output    मुर्गीपालन
+
+
+input sequence      mushahid
+ actual output       	मुशाहिद
+ predicted output    मुशाहिद
+
+
+input sequence      sushrushaa
+ actual output       	सुश्रुषा
+ predicted output    सुश्रुषा
+
+
+input sequence      ijaajat
+ actual output       	इजाजत
+ predicted output    इजाजत
+
+
+input sequence      vankshetra
+ actual output       	वनक्षेत्र
+ predicted output    वनक्षेत्र
+
+
+input sequence      swaadpremiyon
+ actual output       	स्वादप्रेमियों
+ predicted output    स्वादप्रेमियों
+
+
+input sequence      frektar
+ actual output       	फ्रेक्टर
+ predicted output    फ्रेक्टर
+
+
+input sequence      likhkar
+ actual output       	लिखकर
+ predicted output    लिखकर
+
+
+input sequence      bouni
+ actual output       	बौनी
+ predicted output    बौनी
+
+
+input sequence      talve
+ actual output       	तलवे
+ predicted output    तलवे
+
+
+input sequence      seemaai
+ actual output       	सीमाई
+ predicted output    सीमाई
+
+
+input sequence      darshnaarthi
+ actual output       	दर्शनार्थी
+ predicted output    दर्शनार्थी
+
+
+input sequence      rivas
+ actual output       	रिवास
+ predicted output    रिवास
+
+
+input sequence      coachella
+ actual output       	कोचेला
+ predicted output    कोचेला
+
+
+input sequence      parishad
+ actual output       	परिषद
+ predicted output    परिषद
+
+
+input sequence      granthiyon
+ actual output       	ग्रंथियों
+ predicted output    ग्रंथियों
+
+
+input sequence      buena
+ actual output       	बुएना
+ predicted output    बुएना
+
+
+input sequence      canterbury
+ actual output       	कैंटरबरी
+ predicted output    कैंटरबरी
+
+
+input sequence      shasanadhikaariyon
+ actual output       	शासनाधिकारियों
+ predicted output    शासनाधिकारियों
+
+
+input sequence      catlin
+ actual output       	कैटलिन
+ predicted output    कैटलिन
+
+
+input sequence      wonder
+ actual output       	वंडर
+ predicted output    वंडर
+
+
+input sequence      shving
+ actual output       	श्विंग
+ predicted output    श्विंग
+
+
+input sequence      pashchamee
+ actual output       	पश्चमी
+ predicted output    पश्चमी
+
+
+input sequence      nilaabh
+ actual output       	नीलाभ
+ predicted output    नीलाभ
+
+
+input sequence      upneta
+ actual output       	उपनेता
+ predicted output    उपनेता
+
+
+input sequence      maas
+ actual output       	मास
+ predicted output    मास
+
+
+input sequence      westing
+ actual output       	वेस्टिंग
+ predicted output    वेस्टिंग
+
+
+input sequence      mukeshvari
+ actual output       	मुकेश्वरी
+ predicted output    मुकेश्वरी
+
+
+input sequence      shrimati
+ actual output       	श्रीमति
+ predicted output    श्रीमति
+
+
+input sequence      vivekahin
+ actual output       	विवेकहीन
+ predicted output    विवेकहीन
+
+
+input sequence      jivraj
+ actual output       	जीवराज
+ predicted output    जीवराज
+
+
+input sequence      singar
+ actual output       	सिंगार
+ predicted output    सिंगार
+
+
+input sequence      balkrishna
+ actual output       	बालकृष्ण
+ predicted output    बालकृष्ण
+
+
+input sequence      palatne
+ actual output       	पलटने
+ predicted output    पलटने
+
+
+input sequence      lahlahaati
+ actual output       	लहलहाती
+ predicted output    लहलहाती
+
+
+input sequence      nagaada
+ actual output       	नगाड़ा
+ predicted output    नगाड़ा
+
+
+input sequence      klein
+ actual output       	क्लेन
+ predicted output    क्लेन
+
+
+input sequence      karyabhar
+ actual output       	कार्यभार
+ predicted output    कार्यभार
+
+
+input sequence      manto
+ actual output       	मंटो
+ predicted output    मंटो
+
+
+input sequence      barker
+ actual output       	बार्कर
+ predicted output    बार्कर
+
+
+input sequence      phoos
+ actual output       	फूस
+ predicted output    फूस
+
+
+input sequence      neko
+ actual output       	नेको
+ predicted output    नेको
+
+
+input sequence      kaushal
+ actual output       	कौशल
+ predicted output    कौशल
+
+
+input sequence      dilaaega
+ actual output       	दिलाएगा
+ predicted output    दिलाएगा
+
+
+input sequence      saunpengi
+ actual output       	सौंपेंगी
+ predicted output    सौंपेंगी
+
+
+input sequence      gudepu
+ actual output       	गुडेपु
+ predicted output    गुडेपु
+
+
+input sequence      pharase
+ actual output       	फरसे
+ predicted output    फरसे
+
+
+input sequence      nubiya
+ actual output       	नूबिया
+ predicted output    नूबिया
+
+
+input sequence      science
+ actual output       	साइंस
+ predicted output    साइंस
+
+
+input sequence      sarkarein
+ actual output       	सरकारें
+ predicted output    सरकारें
+
+
+input sequence      sanyukt
+ actual output       	संयुक्त
+ predicted output    संयुक्त
+
+
+input sequence      sabhaen
+ actual output       	सभाएं
+ predicted output    सभाएं
+
+
+input sequence      vineet
+ actual output       	विनीत
+ predicted output    विनीत
+
+
+input sequence      kikiyana
+ actual output       	किकियाना
+ predicted output    किकियाना
+
+
+input sequence      maxwell
+ actual output       	मैक्सवेल
+ predicted output    मैक्सवेल
+
+
+input sequence      hippo
+ actual output       	हिप्पो
+ predicted output    हिप्पो
+
+
+input sequence      deepan
+ actual output       	दीपन
+ predicted output    दीपन
+
+
+input sequence      karmaacharee
+ actual output       	कर्माचारी
+ predicted output    कर्माचारी
+
+
+input sequence      durgapur
+ actual output       	दुर्गापुर
+ predicted output    दुर्गापुर
+
+
+input sequence      tribhaashaa
+ actual output       	त्रिभाषा
+ predicted output    त्रिभाषा
+
+
+input sequence      soodkhoron
+ actual output       	सूदखोरों
+ predicted output    सूदखोरों
+
+
+input sequence      prastaavon
+ actual output       	प्रस्तावों
+ predicted output    प्रस्तावों
+
+
+input sequence      welwet
+ actual output       	वेलवेट
+ predicted output    वेलवेट
+
+
+input sequence      uthani
+ actual output       	उठनी
+ predicted output    उठनी
+
+
+input sequence      ikattha
+ actual output       	इकट्ठा
+ predicted output    इकट्ठा
+
+
+input sequence      bhupsingh
+ actual output       	भूपसिंह
+ predicted output    भूपसिंह
+
+
+input sequence      crosby
+ actual output       	क्रॉस्बी
+ predicted output    क्रॉस्बी
+
+
+input sequence      hurley
+ actual output       	हर्ले
+ predicted output    हर्ले
+
+
+input sequence      bago
+ actual output       	बागो
+ predicted output    बागो
+
+
+input sequence      bosaan
+ actual output       	बोसान
+ predicted output    बोसान
+
+
+input sequence      manokaamnaaon
+ actual output       	मनोकामनाओं
+ predicted output    मनोकामनाओं
+
+
+input sequence      parichar
+ actual output       	परिचर
+ predicted output    परिचर
+
+
+input sequence      crane
+ actual output       	क्रेन
+ predicted output    क्रेन
+
+
+input sequence      prabhanmantri
+ actual output       	प्रभानमंत्री
+ predicted output    प्रभानमंत्री
+
+
+input sequence      shiwalapurwa
+ actual output       	शिवालापुरवा
+ predicted output    शिवालापुरवा
+
+
+input sequence      suhagin
+ actual output       	सुहागिन
+ predicted output    सुहागिन
+
+
+input sequence      pratirodhaatmak
+ actual output       	प्रतिरोधात्मक
+ predicted output    प्रतिरोधात्मक
+
+
+input sequence      svarnikaa
+ actual output       	स्वर्णिका
+ predicted output    स्वर्णिका
+
+
+input sequence      vyavasthapana
+ actual output       	व्यवस्थापना
+ predicted output    व्यवस्थापना
+
+
+input sequence      microfiber
+ actual output       	माइक्रोफाइबर
+ predicted output    माइक्रोफाइबर
+
+
+input sequence      shreemahapoorn
+ actual output       	श्रीमहापूर्ण
+ predicted output    श्रीमहापूर्ण
+
+
+input sequence      chadhne
+ actual output       	चढ़ने
+ predicted output    चढ़ने
+
+
+input sequence      jeevvigyaaniyon
+ actual output       	जीवविज्ञानियों
+ predicted output    जीवविज्ञानियों
+
+
+input sequence      cricketing
+ actual output       	क्रिकेटिंग
+ predicted output    क्रिकेटिंग
+
+
+input sequence      reduction
+ actual output       	रिडक्शन
+ predicted output    रिडक्शन
+
+
+input sequence      thenga
+ actual output       	ठेंगा
+ predicted output    ठेंगा
+
+
+input sequence      chatakaate
+ actual output       	चटकाते
+ predicted output    चटकाते
+
+
+input sequence      kubuddin
+ actual output       	कुबुद्दीन
+ predicted output    कुबुद्दीन
+
+
+input sequence      aalochakon
+ actual output       	आलोचकों
+ predicted output    आलोचकों
+
+
+input sequence      prahaarak
+ actual output       	प्रहारक
+ predicted output    प्रहारक
+
+
+input sequence      hastaantaraneey
+ actual output       	हस्तांतरणीय
+ predicted output    हस्तांतरणीय
+
+
+input sequence      sangoshtree
+ actual output       	संगोष्ट्री
+ predicted output    संगोष्ट्री
+
+
+input sequence      shaasanadhikariyon
+ actual output       	शासनाधिकारियों
+ predicted output    शासनाधिकारियों
+
+
+input sequence      fode
+ actual output       	फोड़े
+ predicted output    फोड़े
+
+
+input sequence      chutile
+ actual output       	चुटीले
+ predicted output    चुटीले
+
+
+input sequence      parikalpit
+ actual output       	परिकल्पित
+ predicted output    परिकल्पित
+
+
+input sequence      harpal
+ actual output       	हरपाल
+ predicted output    हरपाल
+
+
+input sequence      angelo
+ actual output       	एंजेलो
+ predicted output    एंजेलो
+
+
+input sequence      pokar
+ actual output       	पोकर
+ predicted output    पोकर
+
+
+input sequence      apvartit
+ actual output       	अपवर्तित
+ predicted output    अपवर्तित
+
+
+input sequence      emile
+ actual output       	एमिल
+ predicted output    एमिल
+
+
+input sequence      shaili
+ actual output       	शैली
+ predicted output    शैली
+
+
+input sequence      chhallaa
+ actual output       	छल्ला
+ predicted output    छल्ला
+
+
+input sequence      lakshyon
+ actual output       	लक्ष्यों
+ predicted output    लक्ष्यों
+
+
+input sequence      devi
+ actual output       	देवी
+ predicted output    देवी
+
+
+input sequence      bhira
+ actual output       	भीरा
+ predicted output    भीरा
+
+
+input sequence      aamdani
+ actual output       	आमदनी
+ predicted output    आमदनी
+
+
+input sequence      talaasha
+ actual output       	तलाशा
+ predicted output    तलाशा
+
+
+input sequence      parivaarwaale
+ actual output       	परिवारवाले
+ predicted output    परिवारवाले
+
+
+input sequence      tugalaki
+ actual output       	तुगलकी
+ predicted output    तुगलकी
+
+
+input sequence      kush
+ actual output       	कुश
+ predicted output    कुश
+
+
+input sequence      sachan
+ actual output       	सचन
+ predicted output    सचन
+
+
+input sequence      canton
+ actual output       	कैंटन
+ predicted output    कैंटन
+
+
+input sequence      aatmamugdha
+ actual output       	आत्ममुग्ध
+ predicted output    आत्ममुग्ध
+
+
+input sequence      ghontanaa
+ actual output       	घोंटना
+ predicted output    घोंटना
+
+
+input sequence      maryadaon
+ actual output       	मर्यादाओं
+ predicted output    मर्यादाओं
+
+
+input sequence      ratlam
+ actual output       	रतलाम
+ predicted output    रतलाम
+
+
+input sequence      akola
+ actual output       	अकोला
+ predicted output    अकोला
+
+
+input sequence      noobiyaa
+ actual output       	नूबिया
+ predicted output    नूबिया
+
+
+input sequence      pratipaalpur
+ actual output       	प्रतिपालपुर
+ predicted output    प्रतिपालपुर
+
+
+input sequence      namkeen
+ actual output       	नमकीन
+ predicted output    नमकीन
+
+
+input sequence      manjilen
+ actual output       	मंजिलें
+ predicted output    मंजिलें
+
+
+input sequence      juraab
+ actual output       	जुराब
+ predicted output    जुराब
+
+
+input sequence      black
+ actual output       	ब्लैक
+ predicted output    ब्लैक
+
+
+input sequence      johari
+ actual output       	जोहरी
+ predicted output    जोहरी
+
+
+input sequence      tevree
+ actual output       	तेवरी
+ predicted output    तेवरी
+
+
+input sequence      sanders
+ actual output       	सेंडर्स
+ predicted output    सेंडर्स
+
+
+input sequence      welder
+ actual output       	वेल्डर
+ predicted output    वेल्डर
+
+
+input sequence      khaatedaar
+ actual output       	खातेदार
+ predicted output    खातेदार
+
+
+input sequence      aavrittiyon
+ actual output       	आवृत्तियों
+ predicted output    आवृत्तियों
+
+
+input sequence      bahawalpur
+ actual output       	बहावलपुर
+ predicted output    बहावलपुर
+
+
+input sequence      chausinga
+ actual output       	चौसिंगा
+ predicted output    चौसिंगा
+
+
+input sequence      buildcon
+ actual output       	बिल्डकॉन
+ predicted output    बिल्डकॉन
+
+
+input sequence      teekon
+ actual output       	टीकों
+ predicted output    टीकों
+
+
+input sequence      athak
+ actual output       	अथक
+ predicted output    अथक
+
+
+input sequence      maap
+ actual output       	माप
+ predicted output    माप
+
+
+input sequence      last
+ actual output       	लास्ट
+ predicted output    लास्ट
+
+
+input sequence      gajra
+ actual output       	गजरा
+ predicted output    गजरा
+
+
+input sequence      doda
+ actual output       	डोडा
+ predicted output    डोडा
+
+
+input sequence      chipakane
+ actual output       	चिपकने
+ predicted output    चिपकने
+
+
+input sequence      chungiyon
+ actual output       	चुंगियों
+ predicted output    चुंगियों
+
+
+input sequence      formic
+ actual output       	फार्मिक
+ predicted output    फार्मिक
+
+
+input sequence      yuddhak
+ actual output       	युद्धक
+ predicted output    युद्धक
+
+
+input sequence      vegas
+ actual output       	वेगास
+ predicted output    वेगास
+
+
+input sequence      chitranshi
+ actual output       	चित्रांशी
+ predicted output    चित्रांशी
+
+
+input sequence      vitark
+ actual output       	वितर्क
+ predicted output    वितर्क
+
+
+input sequence      ambaani
+ actual output       	अंबानी
+ predicted output    अंबानी
+
+
+input sequence      ibija
+ actual output       	इबीजा
+ predicted output    इबीजा
+
+
+input sequence      varnit
+ actual output       	वर्णित
+ predicted output    वर्णित
+
+
+input sequence      jhuthlane
+ actual output       	झुठलाने
+ predicted output    झुठलाने
+
+
+input sequence      kshin
+ actual output       	क्षीण
+ predicted output    क्षीण
+
+
+input sequence      raichur
+ actual output       	रायचूर
+ predicted output    रायचूर
+
+
+input sequence      wabag
+ actual output       	वाबाग
+ predicted output    वाबाग
+
+
+input sequence      kaipdhari
+ actual output       	कैपधारी
+ predicted output    कैपधारी
+
+
+input sequence      bareli
+ actual output       	बरेली
+ predicted output    बरेली
+
+
+input sequence      jing
+ actual output       	जिंग
+ predicted output    जिंग
+
+
+input sequence      jivan
+ actual output       	जीवन
+ predicted output    जीवन
+
+
+input sequence      deepika
+ actual output       	दीपिका
+ predicted output    दीपिका
+
+
+input sequence      lohati
+ actual output       	लोहाती
+ predicted output    लोहाती
+
+
+input sequence      kakkad
+ actual output       	कक्कड़
+ predicted output    कक्कड़
+
+
+input sequence      maulviyon
+ actual output       	मौलवियों
+ predicted output    मौलवियों
+
+
+input sequence      dungarpur
+ actual output       	डूंगरपुर
+ predicted output    डूंगरपुर
+
+
+input sequence      ichchhaachaaree
+ actual output       	इच्छाचारी
+ predicted output    इच्छाचारी
+
+
+input sequence      triya
+ actual output       	त्रिया
+ predicted output    त्रिया
+
+
+input sequence      bhavishya
+ actual output       	भविष्य
+ predicted output    भविष्य
+
+
+input sequence      bender
+ actual output       	बेंडर
+ predicted output    बेंडर
+
+
+input sequence      pradesh
+ actual output       	प्रदेश
+ predicted output    प्रदेश
+
+
+input sequence      samvedikaran
+ actual output       	संवेदीकरण
+ predicted output    संवेदीकरण
+
+
+input sequence      laguna
+ actual output       	लगुना
+ predicted output    लगुना
+
+
+input sequence      race
+ actual output       	रेस
+ predicted output    रेस
+
+
+input sequence      prabodhini
+ actual output       	प्रबोधिनी
+ predicted output    प्रबोधिनी
+
+
+input sequence      mangla
+ actual output       	मंगला
+ predicted output    मंगला
+
+
+input sequence      udaygadhi
+ actual output       	उदयगढ़ी
+ predicted output    उदयगढ़ी
+
+
+input sequence      vyavasthavirodhi
+ actual output       	व्यवस्थाविरोधी
+ predicted output    व्यवस्थाविरोधी
+
+
+input sequence      raktadaataaon
+ actual output       	रक्तदाताओं
+ predicted output    रक्तदाताओं
+
+
+input sequence      jhaadaa
+ actual output       	झाड़ा
+ predicted output    झाड़ा
+
+
+input sequence      kishun
+ actual output       	किशुन
+ predicted output    किशुन
+
+
+input sequence      amrohi
+ actual output       	अमरोही
+ predicted output    अमरोही
+
+
+input sequence      raidical
+ actual output       	रैडिकल
+ predicted output    रैडिकल
+
+
+input sequence      jenner
+ actual output       	जेनर
+ predicted output    जेनर
+
+
+input sequence      varshiya
+ actual output       	वर्षिय
+ predicted output    वर्षिय
+
+
+input sequence      shaavakon
+ actual output       	शावकों
+ predicted output    शावकों
+
+
+input sequence      rupa
+ actual output       	रूपा
+ predicted output    रूपा
+
+
+input sequence      weronika
+ actual output       	वेरोनिका
+ predicted output    वेरोनिका
+
+
+input sequence      pasco
+ actual output       	पास्को
+ predicted output    पास्को
+
+
+input sequence      enterprise
+ actual output       	एंटरप्राइज
+ predicted output    एंटरप्राइज
+
+
+input sequence      upasthiyon
+ actual output       	उपस्थियों
+ predicted output    उपस्थियों
+
+
+input sequence      baila
+ actual output       	बैला
+ predicted output    बैला
+
+
+input sequence      livaal
+ actual output       	लिवाल
+ predicted output    लिवाल
+
+
+input sequence      hillsboro
+ actual output       	हिल्सबोरो
+ predicted output    हिल्सबोरो
+
+
+input sequence      shaakir
+ actual output       	शाकिर
+ predicted output    शाकिर
+
+
+input sequence      vishwakarma
+ actual output       	विश्वकर्मा
+ predicted output    विश्वकर्मा
+
+
+input sequence      ridge
+ actual output       	रिज
+ predicted output    रिज
+
+
+input sequence      rishvatkhor
+ actual output       	रिश्वतखोर
+ predicted output    रिश्वतखोर
+
+
+input sequence      praavinses
+ actual output       	प्राविंसेस
+ predicted output    प्राविंसेस
+
+
+input sequence      daftarvaale
+ actual output       	दफ्तरवाले
+ predicted output    दफ्तरवाले
+
+
+input sequence      physician
+ actual output       	फिजिशियन
+ predicted output    फिजिशियन
+
+
+input sequence      jodhika
+ actual output       	जोधिका
+ predicted output    जोधिका
+
+
+input sequence      sipah
+ actual output       	सिपाह
+ predicted output    सिपाह
+
+
+input sequence      bharamaa
+ actual output       	भरमा
+ predicted output    भरमा
+
+
+input sequence      meghwal
+ actual output       	मेघवाल
+ predicted output    मेघवाल
+
+
+input sequence      nandoi
+ actual output       	नंदोई
+ predicted output    नंदोई
+
+
+input sequence      dukke
+ actual output       	दुक्के
+ predicted output    दुक्के
+
+
+input sequence      cubeck
+ actual output       	क्यूबेक
+ predicted output    क्यूबेक
+
+
+input sequence      chamakna
+ actual output       	चमकना
+ predicted output    चमकना
+
+
+input sequence      bistagond
+ actual output       	बिस्तागोंड
+ predicted output    बिस्तागोंड
+
+
+input sequence      dehra
+ actual output       	देहरा
+ predicted output    देहरा
+
+
+input sequence      shrankhala
+ actual output       	श्रंखला
+ predicted output    श्रंखला
+
+
+input sequence      hastaaksharon
+ actual output       	हस्ताक्षरों
+ predicted output    हस्ताक्षरों
+
+
+input sequence      tirupati
+ actual output       	तिरुपति
+ predicted output    तिरुपति
+
+
+input sequence      kursiyon
+ actual output       	कुर्सियों
+ predicted output    कुर्सियों
+
+
+input sequence      mithaiyaan
+ actual output       	मिठाइयाँ
+ predicted output    मिठाइयाँ
+
+
+input sequence      pahno
+ actual output       	पहनो
+ predicted output    पहनो
+
+
+input sequence      gurjar
+ actual output       	गुर्जर
+ predicted output    गुर्जर
+
+
+input sequence      madhya
+ actual output       	मध्य
+ predicted output    मध्य
+
+
+input sequence      briggs
+ actual output       	ब्रिग्स
+ predicted output    ब्रिग्स
+
+
+input sequence      chikhali
+ actual output       	चिखली
+ predicted output    चिखली
+
+
+input sequence      roanoke
+ actual output       	रोनोक
+ predicted output    रोनोक
+
+
+input sequence      haokip
+ actual output       	हाओकिप
+ predicted output    हाओकिप
+
+
+input sequence      poorvapekshaaon
+ actual output       	पूर्वापेक्षाओं
+ predicted output    पूर्वापेक्षाओं
+
+
+input sequence      nagraj
+ actual output       	नागराज
+ predicted output    नागराज
+
+
+input sequence      rukwaakar
+ actual output       	रुकवाकर
+ predicted output    रुकवाकर
+
+
+input sequence      brahmvarta
+ actual output       	ब्रह्मवर्ता
+ predicted output    ब्रह्मवर्ता
+
+
+input sequence      teji
+ actual output       	तेजी
+ predicted output    तेजी
+
+
+input sequence      moolon
+ actual output       	मूलों
+ predicted output    मूलों
+
+
+input sequence      hamirpur
+ actual output       	हमीरपुर
+ predicted output    हमीरपुर
+
+
+input sequence      pokhriyal
+ actual output       	पोखरियाल
+ predicted output    पोखरियाल
+
+
+input sequence      dabangata
+ actual output       	दबंगता
+ predicted output    दबंगता
+
+
+input sequence      dhuriya
+ actual output       	धुरिया
+ predicted output    धुरिया
+
+
+input sequence      gazi
+ actual output       	गाज़ी
+ predicted output    गाज़ी
+
+
+input sequence      ijajat
+ actual output       	इजाजत
+ predicted output    इजाजत
+
+
+input sequence      toledo
+ actual output       	टोलेडो
+ predicted output    टोलेडो
+
+
+input sequence      putli
+ actual output       	पुतली
+ predicted output    पुतली
+
+
+input sequence      sanchari
+ actual output       	संचारी
+ predicted output    संचारी
+
+
+input sequence      narnaari
+ actual output       	नरनारी
+ predicted output    नरनारी
+
+
+input sequence      dhaniye
+ actual output       	धनिये
+ predicted output    धनिये
+
+
+input sequence      gammat
+ actual output       	गम्मत
+ predicted output    गम्मत
+
+
+input sequence      laphphaajee
+ actual output       	लफ्फाजी
+ predicted output    लफ्फाजी
+
+
+input sequence      commerce
+ actual output       	कॉमर्स
+ predicted output    कॉमर्स
+
+
+input sequence      testing
+ actual output       	टेस्टिंग
+ predicted output    टेस्टिंग
+
+
+input sequence      besil
+ actual output       	बेसिल
+ predicted output    बेसिल
+
+
+input sequence      vyapak
+ actual output       	व्यापक
+ predicted output    व्यापक
+
+
+input sequence      maddy
+ actual output       	मैडी
+ predicted output    मैडी
+
+
+input sequence      sabhasadon
+ actual output       	सभासदों
+ predicted output    सभासदों
+
+
+input sequence      atmaen
+ actual output       	आत्माएं
+ predicted output    आत्माएं
+
+
+input sequence      damaae
+ actual output       	दमाए
+ predicted output    दमाए
+
+
+input sequence      waco
+ actual output       	वाको
+ predicted output    वाको
+
+
+input sequence      sarsaa
+ actual output       	सरसा
+ predicted output    सरसा
+
+
+input sequence      hester
+ actual output       	हेस्टर
+ predicted output    हेस्टर
+
+
+input sequence      uttar
+ actual output       	उत्तर
+ predicted output    उत्तर
+
+
+input sequence      kasera
+ actual output       	कसेरा
+ predicted output    कसेरा
+
+
+input sequence      chayaniton
+ actual output       	चयनितों
+ predicted output    चयनितों
+
+
+input sequence      premamoolak
+ actual output       	प्रेममूलक
+ predicted output    प्रेममूलक
+
+
+input sequence      moran
+ actual output       	मोरन
+ predicted output    मोरन
+
+
+input sequence      nelson
+ actual output       	नेल्सन
+ predicted output    नेल्सन
+
+
+input sequence      amarpal
+ actual output       	अमरपाल
+ predicted output    अमरपाल
+
+
+input sequence      phatne
+ actual output       	फटने
+ predicted output    फटने
+
+
+input sequence      tinka
+ actual output       	टिंका
+ predicted output    टिंका
+
+
+input sequence      gaayikaao
+ actual output       	गायिकाओ
+ predicted output    गायिकाओ
+
+
+input sequence      pakayen
+ actual output       	पकाएं
+ predicted output    पकाएं
+
+
+input sequence      arthon
+ actual output       	अर्थों
+ predicted output    अर्थों
+
+
+input sequence      neelaabh
+ actual output       	नीलाभ
+ predicted output    नीलाभ
+
+
+input sequence      bhadkaayaa
+ actual output       	भड़काया
+ predicted output    भड़काया
+
+
+input sequence      special
+ actual output       	स्पेशल
+ predicted output    स्पेशल
+
+
+input sequence      shaniwar
+ actual output       	शनिवार
+ predicted output    शनिवार
+
+
+input sequence      maarvaad
+ actual output       	मारवाड़
+ predicted output    मारवाड़
+
+
+input sequence      brigton
+ actual output       	ब्रिगटन
+ predicted output    ब्रिगटन
+
+
+input sequence      ligar
+ actual output       	लिगर
+ predicted output    लिगर
+
+
+input sequence      aadhin
+ actual output       	आधीन
+ predicted output    आधीन
+
+
+input sequence      parwa
+ actual output       	परवा
+ predicted output    परवा
+
+
+input sequence      pradeshikaa
+ actual output       	प्रदेशिका
+ predicted output    प्रदेशिका
+
+
+input sequence      fefada
+ actual output       	फेफड़ा
+ predicted output    फेफड़ा
+
+
+input sequence      wisangatiyaa
+ actual output       	विसंगतिया
+ predicted output    विसंगतिया
+
+
+input sequence      kachchhe
+ actual output       	कच्छे
+ predicted output    कच्छे
+
+
+input sequence      ghost
+ actual output       	घोस्ट
+ predicted output    घोस्ट
+
+
+input sequence      pipli
+ actual output       	पिपली
+ predicted output    पिपली
+
+
+input sequence      bakhshane
+ actual output       	बख्शने
+ predicted output    बख्शने
+
+
+input sequence      risaalee
+ actual output       	रिसाली
+ predicted output    रिसाली
+
+
+input sequence      ojha
+ actual output       	ओझा
+ predicted output    ओझा
+
+
+input sequence      mool
+ actual output       	मूल
+ predicted output    मूल
+
+
+input sequence      rotation
+ actual output       	रोटेशन
+ predicted output    रोटेशन
+
+
+input sequence      barpaya
+ actual output       	बरपाया
+ predicted output    बरपाया
+
+
+input sequence      land
+ actual output       	लैंड
+ predicted output    लैंड
+
+
+input sequence      noon
+ actual output       	नून
+ predicted output    नून
+
+
+input sequence      palanpur
+ actual output       	पालनपुर
+ predicted output    पालनपुर
+
+
+input sequence      raidcras
+ actual output       	रैडक्रास
+ predicted output    रैडक्रास
+
+
+input sequence      tcns
+ actual output       	टीसीएनएस
+ predicted output    टीसीएनएस
+
+
+input sequence      pratikaara
+ actual output       	प्रतिकारा
+ predicted output    प्रतिकारा
+
+
+input sequence      bechkar
+ actual output       	बेचकर
+ predicted output    बेचकर
+
+
+input sequence      stone
+ actual output       	स्टोन
+ predicted output    स्टोन
+
+
+input sequence      baapa
+ actual output       	बापा
+ predicted output    बापा
+
+
+input sequence      aadeshah
+ actual output       	आदेशः
+ predicted output    आदेशः
+
+
+input sequence      roopak
+ actual output       	रूपक
+ predicted output    रूपक
+
+
+input sequence      khandelwal
+ actual output       	खंडेलवाल
+ predicted output    खंडेलवाल
+
+
+input sequence      jehe
+ actual output       	जेहे
+ predicted output    जेहे
+
+
+input sequence      agartala
+ actual output       	अगरतला
+ predicted output    अगरतला
+
+
+input sequence      aagashe
+ actual output       	आगाशे
+ predicted output    आगाशे
+
+
+input sequence      swabhawatah
+ actual output       	स्वभावतः
+ predicted output    स्वभावतः
+
+
+input sequence      bheera
+ actual output       	भीरा
+ predicted output    भीरा
+
+
+input sequence      silva
+ actual output       	सिल्वा
+ predicted output    सिल्वा
+
+
+input sequence      srichakra
+ actual output       	श्रीचक्र
+ predicted output    श्रीचक्र
+
+
+input sequence      nichalaa
+ actual output       	निचला
+ predicted output    निचला
+
+
+input sequence      labdh
+ actual output       	लब्ध
+ predicted output    लब्ध
+
+
+input sequence      ajit
+ actual output       	अजित
+ predicted output    अजित
+
+
+input sequence      giridih
+ actual output       	गिरिडीह
+ predicted output    गिरिडीह
+
+
+input sequence      bhuj
+ actual output       	भुज
+ predicted output    भुज
+
+
+input sequence      reading
+ actual output       	रीडिंग
+ predicted output    रीडिंग
+
+
+input sequence      rukate
+ actual output       	रुकते
+ predicted output    रुकते
+
+
+input sequence      fontana
+ actual output       	फोंटाना
+ predicted output    फोंटाना
+
+
+input sequence      dhammaa
+ actual output       	धम्मा
+ predicted output    धम्मा
+
+
+input sequence      panama
+ actual output       	पनामा
+ predicted output    पनामा
+
+
+input sequence      aasaapaas
+ actual output       	आसापास
+ predicted output    आसापास
+
+
+input sequence      darshnaarthee
+ actual output       	दर्शनार्थी
+ predicted output    दर्शनार्थी
+
+
+input sequence      lokotsav
+ actual output       	लोकोत्सव
+ predicted output    लोकोत्सव
+
+
+input sequence      graahakonne
+ actual output       	ग्राहकोंने
+ predicted output    ग्राहकोंने
+
+
+input sequence      reja
+ actual output       	रेजा
+ predicted output    रेजा
+
+
+input sequence      mitao
+ actual output       	मिटाओ
+ predicted output    मिटाओ
+
+
+input sequence      sugamata
+ actual output       	सुगमता
+ predicted output    सुगमता
+
+
+input sequence      niswarth
+ actual output       	निस्वार्थ
+ predicted output    निस्वार्थ
+
+
+input sequence      mahawar
+ actual output       	महावर
+ predicted output    महावर
+
+
+input sequence      vigyan
+ actual output       	विज्ञान
+ predicted output    विज्ञान
+
+
+input sequence      vilas
+ actual output       	विलास
+ predicted output    विलास
+
+
+input sequence      makhdumpur
+ actual output       	मखदुमपुर
+ predicted output    मखदुमपुर
+
+
+input sequence      kolorado
+ actual output       	कोलोराडो
+ predicted output    कोलोराडो
+
+
+input sequence      blackburn
+ actual output       	ब्लैकबर्न
+ predicted output    ब्लैकबर्न
+
+
+input sequence      ghigghee
+ actual output       	घिग्घी
+ predicted output    घिग्घी
+
+
+input sequence      siratee
+ actual output       	सिरती
+ predicted output    सिरती
+
+
+input sequence      chaudhari
+ actual output       	चौधरी
+ predicted output    चौधरी
+
+
+input sequence      shipping
+ actual output       	शिपिंग
+ predicted output    शिपिंग
+
+
+input sequence      jaanam
+ actual output       	जानम
+ predicted output    जानम
+
+
+input sequence      cheekhna
+ actual output       	चीखना
+ predicted output    चीखना
+
+
+input sequence      urvarakon
+ actual output       	उर्वरकों
+ predicted output    उर्वरकों
+
+
+input sequence      mukeshwaree
+ actual output       	मुकेश्वरी
+ predicted output    मुकेश्वरी
+
+
+input sequence      wankshetra
+ actual output       	वनक्षेत्र
+ predicted output    वनक्षेत्र
+
+
+input sequence      kahaavah
+ actual output       	कहावह
+ predicted output    कहावह
+
+
+input sequence      charas
+ actual output       	चरस
+ predicted output    चरस
+
+
+input sequence      bhadauriya
+ actual output       	भदौरिया
+ predicted output    भदौरिया
+
+
+input sequence      vigyaanon
+ actual output       	विज्ञानों
+ predicted output    विज्ञानों
+
+
+input sequence      ganjhoo
+ actual output       	गंझू
+ predicted output    गंझू
+
+
+input sequence      danptiyon
+ actual output       	दंपतियों
+ predicted output    दंपतियों
+
+
+input sequence      aastik
+ actual output       	आस्तिक
+ predicted output    आस्तिक
+
+
+input sequence      niveshkartaa
+ actual output       	निवेशकर्ता
+ predicted output    निवेशकर्ता
+
+
+input sequence      sanskritiyan
+ actual output       	संस्कृतियां
+ predicted output    संस्कृतियां
+
+
+input sequence      raubdar
+ actual output       	रौबदार
+ predicted output    रौबदार
+
+
+input sequence      raghuram
+ actual output       	रघुराम
+ predicted output    रघुराम
+
+
+input sequence      chharhari
+ actual output       	छरहरी
+ predicted output    छरहरी
+
+
+input sequence      jvaaron
+ actual output       	ज्वारों
+ predicted output    ज्वारों
+
+
+input sequence      sansthita
+ actual output       	संस्थिता
+ predicted output    संस्थिता
+
+
+input sequence      pulatskar
+ actual output       	पुलत्स्कर
+ predicted output    पुलत्स्कर
+
+
+input sequence      riggs
+ actual output       	रिग्स
+ predicted output    रिग्स
+
+
+input sequence      mehrotra
+ actual output       	मेहरोत्रा
+ predicted output    मेहरोत्रा
+
+
+input sequence      chune
+ actual output       	चुने
+ predicted output    चुने
+
+
+input sequence      muflisi
+ actual output       	मुफलिसी
+ predicted output    मुफलिसी
+
+
+input sequence      lipaaee
+ actual output       	लिपाई
+ predicted output    लिपाई
+
+
+input sequence      uthni
+ actual output       	उठनी
+ predicted output    उठनी
+
+
+input sequence      dampatiyon
+ actual output       	दंपतियों
+ predicted output    दंपतियों
+
+
+input sequence      nihlaani
+ actual output       	निहलानी
+ predicted output    निहलानी
+
+
+input sequence      tivolee
+ actual output       	टिवोली
+ predicted output    टिवोली
+
+
+input sequence      hogis
+ actual output       	होगिस
+ predicted output    होगिस
+
+
+input sequence      winter
+ actual output       	विंटर
+ predicted output    विंटर
+
+
+input sequence      ghumaee
+ actual output       	घुमाई
+ predicted output    घुमाई
+
+
+input sequence      petaluma
+ actual output       	पेटालुमा
+ predicted output    पेटालुमा
+
+
+input sequence      bakhshate
+ actual output       	बख्शते
+ predicted output    बख्शते
+
+
+input sequence      sanvedikaran
+ actual output       	संवेदीकरण
+ predicted output    संवेदीकरण
+
+
+input sequence      telon
+ actual output       	तेलों
+ predicted output    तेलों
+
+
+input sequence      redding
+ actual output       	रेडिंग
+ predicted output    रेडिंग
+
+
+input sequence      kisanon
+ actual output       	किसानों
+ predicted output    किसानों
+
+
+input sequence      chalenge
+ actual output       	चलेंगे
+ predicted output    चलेंगे
+
+
+input sequence      labeling
+ actual output       	लेबलिंग
+ predicted output    लेबलिंग
+
+
+input sequence      liberation
+ actual output       	लिबरेशन
+ predicted output    लिबरेशन
+
+
+input sequence      nanhein
+ actual output       	नन्हें
+ predicted output    नन्हें
+
+
+input sequence      bhadauria
+ actual output       	भदौरिया
+ predicted output    भदौरिया
+
+
+input sequence      pahunchanee
+ actual output       	पहुंचनी
+ predicted output    पहुंचनी
+
+
+input sequence      blossom
+ actual output       	ब्लॉसम
+ predicted output    ब्लॉसम
+
+
+input sequence      yatraen
+ actual output       	यात्राएं
+ predicted output    यात्राएं
+
+
+input sequence      niyuttiyon
+ actual output       	नियुत्तियों
+ predicted output    नियुत्तियों
+
+
+input sequence      vikram
+ actual output       	विक्रम
+ predicted output    विक्रम
+
+
+input sequence      spf
+ actual output       	एसपीएफ
+ predicted output    एसपीएफ
+
+
+input sequence      artemis
+ actual output       	आर्टेमिस
+ predicted output    आर्टेमिस
+
+
+input sequence      purvaasiyon
+ actual output       	पुरवासियों
+ predicted output    पुरवासियों
+
+
+input sequence      vipannata
+ actual output       	विपन्नता
+ predicted output    विपन्नता
+
+
+input sequence      hijbul
+ actual output       	हिजबुल
+ predicted output    हिजबुल
+
+
+input sequence      vidyaon
+ actual output       	विद्याओं
+ predicted output    विद्याओं
+
+
+input sequence      manju
+ actual output       	मंजू
+ predicted output    मंजू
+
+
+input sequence      chhawindra
+ actual output       	छविंद्र
+ predicted output    छविंद्र
+
+
+input sequence      chhupkar
+ actual output       	छुपकर
+ predicted output    छुपकर
+
+
+input sequence      jeevvigyaniyon
+ actual output       	जीवविज्ञानियों
+ predicted output    जीवविज्ञानियों
+
+
+input sequence      sihuntaa
+ actual output       	सिहुंता
+ predicted output    सिहुंता
+
+
+input sequence      hemwati
+ actual output       	हेमवती
+ predicted output    हेमवती
+
+
+input sequence      vaigyanikata
+ actual output       	वैज्ञानिकता
+ predicted output    वैज्ञानिकता
+
+
+input sequence      jheelon
+ actual output       	झीलों
+ predicted output    झीलों
+
+
+input sequence      shrirampur
+ actual output       	श्रीरामपुर
+ predicted output    श्रीरामपुर
+
+
+input sequence      vasoolataa
+ actual output       	वसूलता
+ predicted output    वसूलता
+
+
+input sequence      jodhpur
+ actual output       	जोधपुर
+ predicted output    जोधपुर
+
+
+input sequence      makrani
+ actual output       	मकरानी
+ predicted output    मकरानी
+
+
+input sequence      brahmasiddhi
+ actual output       	ब्रह्मसिद्धि
+ predicted output    ब्रह्मसिद्धि
+
+
+input sequence      reeta
+ actual output       	रीता
+ predicted output    रीता
+
+
+input sequence      charchaamanch
+ actual output       	चर्चामंच
+ predicted output    चर्चामंच
+
+
+input sequence      dabangon
+ actual output       	दबंगों
+ predicted output    दबंगों
+
+
+input sequence      sheershakon
+ actual output       	शीर्षकों
+ predicted output    शीर्षकों
+
+
+input sequence      kingkhan
+ actual output       	किंगखान
+ predicted output    किंगखान
+
+
+input sequence      taras
+ actual output       	तरस
+ predicted output    तरस
+
+
+input sequence      clair
+ actual output       	क्लेयर
+ predicted output    क्लेयर
+
+
+input sequence      virodh
+ actual output       	विरोध
+ predicted output    विरोध
+
+
+input sequence      arena
+ actual output       	अरेना
+ predicted output    अरेना
+
+
+input sequence      tankaar
+ actual output       	टंकार
+ predicted output    टंकार
+
+
+input sequence      khatakati
+ actual output       	खटकती
+ predicted output    खटकती
+
+
+input sequence      gm
+ actual output       	जीएम
+ predicted output    जीएम
+
+
+input sequence      korola
+ actual output       	कोरोला
+ predicted output    कोरोला
+
+
+input sequence      balaatkaariyon
+ actual output       	बलात्कारियों
+ predicted output    बलात्कारियों
+
+
+input sequence      shreshthaswaroop
+ actual output       	श्रेष्ठस्वरूप
+ predicted output    श्रेष्ठस्वरूप
+
+
+input sequence      mahamanch
+ actual output       	महामंच
+ predicted output    महामंच
+
+
+input sequence      reeves
+ actual output       	रीव्स
+ predicted output    रीव्स
+
+
+input sequence      fargo
+ actual output       	फार्गो
+ predicted output    फार्गो
+
+
+input sequence      aleem
+ actual output       	अलीम
+ predicted output    अलीम
+
+
+input sequence      imaandaari
+ actual output       	इमानदारी
+ predicted output    इमानदारी
+
+
+input sequence      gangajal
+ actual output       	गंगाजल
+ predicted output    गंगाजल
+
+
+input sequence      cementation
+ actual output       	सीमेंटेशन
+ predicted output    सीमेंटेशन
+
+
+input sequence      bagad
+ actual output       	बगड़
+ predicted output    बगड़
+
+
+input sequence      naksalwad
+ actual output       	नक्सलवाद
+ predicted output    नक्सलवाद
+
+
+input sequence      niveshkarta
+ actual output       	निवेशकर्ता
+ predicted output    निवेशकर्ता
+
+
+input sequence      kaabiletaarif
+ actual output       	काबिलेतारीफ
+ predicted output    काबिलेतारीफ
+
+
+input sequence      bhaadas
+ actual output       	भादस
+ predicted output    भादस
+
+
+input sequence      bhogte
+ actual output       	भोगते
+ predicted output    भोगते
+
+
+input sequence      holding
+ actual output       	होल्डिंग
+ predicted output    होल्डिंग
+
+
+input sequence      pratigya
+ actual output       	प्रतिज्ञा
+ predicted output    प्रतिज्ञा
+
+
+input sequence      badhaati
+ actual output       	बढ़ाती
+ predicted output    बढ़ाती
+
+
+input sequence      purzon
+ actual output       	पुर्जों
+ predicted output    पुर्जों
+
+
+input sequence      bahunt
+ actual output       	बहुंत
+ predicted output    बहुंत
+
+
+input sequence      bravo
+ actual output       	ब्रावो
+ predicted output    ब्रावो
+
+
+input sequence      amaanat
+ actual output       	अमानत
+ predicted output    अमानत
+
+
+input sequence      jhuthla
+ actual output       	झुठला
+ predicted output    झुठला
+
+
+input sequence      bush
+ actual output       	बुश
+ predicted output    बुश
+
+
+input sequence      apar
+ actual output       	अपर
+ predicted output    अपर
+
+
+input sequence      asthetic
+ actual output       	एस्थेटिक
+ predicted output    एस्थेटिक
+
+
+input sequence      sajja
+ actual output       	सज्जा
+ predicted output    सज्जा
+
+
+input sequence      amy
+ actual output       	एमी
+ predicted output    एमी
+
+
+input sequence      naxaliyon
+ actual output       	नक्सलियों
+ predicted output    नक्सलियों
+
+
+input sequence      manner
+ actual output       	मैनर
+ predicted output    मैनर
+
+
+input sequence      himali
+ actual output       	हिमाली
+ predicted output    हिमाली
+
+
+input sequence      naksalavaad
+ actual output       	नक्सलवाद
+ predicted output    नक्सलवाद
+
+
+input sequence      tippanikar
+ actual output       	टिप्पणीकार
+ predicted output    टिप्पणीकार
+
+
+input sequence      perels
+ actual output       	पेरेल्स
+ predicted output    पेरेल्स
+
+
+input sequence      beetaane
+ actual output       	बीताने
+ predicted output    बीताने
+
+
+input sequence      besin
+ actual output       	बेसिन
+ predicted output    बेसिन
+
+
+input sequence      giriwasiyon
+ actual output       	गिरिवासियों
+ predicted output    गिरिवासियों
+
+
+input sequence      paradhin
+ actual output       	पराधीन
+ predicted output    पराधीन
+
+
+input sequence      delta
+ actual output       	डेल्टा
+ predicted output    डेल्टा
+
+
+input sequence      tripura
+ actual output       	त्रिपुरा
+ predicted output    त्रिपुरा
+
+
+input sequence      kheda
+ actual output       	खेड़ा
+ predicted output    खेड़ा
+
+
+input sequence      shalimar
+ actual output       	शालीमार
+ predicted output    शालीमार
+
+
+input sequence      moses
+ actual output       	मोसेस
+ predicted output    मोसेस
+
+
+input sequence      ilectromeetar
+ actual output       	इलेक्ट्रोमीटर
+ predicted output    इलेक्ट्रोमीटर
+
+
+input sequence      rookenge
+ actual output       	रूकेंगे
+ predicted output    रूकेंगे
+
+
+input sequence      maariya
+ actual output       	मारिया
+ predicted output    मारिया
+
+
+input sequence      raagon
+ actual output       	रागों
+ predicted output    रागों
+
+
+input sequence      aaipief
+ actual output       	आइपीएफ
+ predicted output    आइपीएफ
+
+
+input sequence      phalitartha
+ actual output       	फलितार्थ
+ predicted output    फलितार्थ
+
+
+input sequence      aata
+ actual output       	आटा
+ predicted output    आटा
+
+
+input sequence      mahalon
+ actual output       	महलों
+ predicted output    महलों
+
+
+input sequence      badhaataa
+ actual output       	बढ़ाता
+ predicted output    बढ़ाता
+
+
+input sequence      bhadkaya
+ actual output       	भड़काया
+ predicted output    भड़काया
+
+
+input sequence      naraseepura
+ actual output       	नरसीपुरा
+ predicted output    नरसीपुरा
+
+
+input sequence      sarkaa
+ actual output       	सरका
+ predicted output    सरका
+
+
+input sequence      alayamanee
+ actual output       	अलयमनी
+ predicted output    अलयमनी
+
+
+input sequence      nirdal
+ actual output       	निर्दल
+ predicted output    निर्दल
+
+
+input sequence      barsaai
+ actual output       	बरसाई
+ predicted output    बरसाई
+
+
+input sequence      ananddaayak
+ actual output       	आनंददायक
+ predicted output    आनंददायक
+
+
+input sequence      bechakar
+ actual output       	बेचकर
+ predicted output    बेचकर
+
+
+input sequence      kaushalta
+ actual output       	कौशलता
+ predicted output    कौशलता
+
+
+input sequence      wireless
+ actual output       	वायरलेस
+ predicted output    वायरलेस
+
+
+input sequence      gaano
+ actual output       	गानो
+ predicted output    गानो
+
+
+input sequence      mta
+ actual output       	एमटीए
+ predicted output    एमटीए
+
+
+input sequence      samruddhiyon
+ actual output       	समृद्धियों
+ predicted output    समृद्धियों
+
+
+input sequence      kaansting
+ actual output       	कांस्टिंग
+ predicted output    कांस्टिंग
+
+
+input sequence      bharatwanshee
+ actual output       	भारतवंशी
+ predicted output    भारतवंशी
+
+
+input sequence      pehowa
+ actual output       	पेहोवा
+ predicted output    पेहोवा
+
+
+input sequence      ummidwaaree
+ actual output       	उम्मीदवारी
+ predicted output    उम्मीदवारी
+
+
+input sequence      saafgoi
+ actual output       	साफगोई
+ predicted output    साफगोई
+
+
+input sequence      grenite
+ actual output       	ग्रेनाइट
+ predicted output    ग्रेनाइट
+
+
+input sequence      ustara
+ actual output       	उस्तरा
+ predicted output    उस्तरा
+
+
+input sequence      kumari
+ actual output       	कुमारी
+ predicted output    कुमारी
+
+
+input sequence      chhudawaaya
+ actual output       	छुड़वाया
+ predicted output    छुड़वाया
+
+
+input sequence      suiyan
+ actual output       	सूइयां
+ predicted output    सूइयां
+
+
+input sequence      veronika
+ actual output       	वेरोनिका
+ predicted output    वेरोनिका
+
+
+input sequence      potter
+ actual output       	पॉटर
+ predicted output    पॉटर
+
+
+input sequence      pichde
+ actual output       	पिछड़े
+ predicted output    पिछड़े
+
+
+input sequence      nirdeshika
+ actual output       	निर्देशिका
+ predicted output    निर्देशिका
+
+
+input sequence      seto
+ actual output       	सेटो
+ predicted output    सेटो
+
+
+input sequence      roadrej
+ actual output       	रोडरेज
+ predicted output    रोडरेज
+
+
+input sequence      laphj
+ actual output       	लफ्ज
+ predicted output    लफ्ज
+
+
+input sequence      vanshvad
+ actual output       	वंशवाद
+ predicted output    वंशवाद
+
+
+input sequence      rohtak
+ actual output       	रोहतक
+ predicted output    रोहतक
+
+
+input sequence      atakta
+ actual output       	अटकता
+ predicted output    अटकता
+
+
+input sequence      baawaraa
+ actual output       	बावरा
+ predicted output    बावरा
+
+
+input sequence      andhapan
+ actual output       	अंधापन
+ predicted output    अंधापन
+
+
+input sequence      hamalavar
+ actual output       	हमलावर
+ predicted output    हमलावर
+
+
+input sequence      oklahoma
+ actual output       	ओकलाहोमा
+ predicted output    ओकलाहोमा
+
+
+input sequence      khalati
+ actual output       	खलती
+ predicted output    खलती
+
+
+input sequence      kyusaiks
+ actual output       	क्यूसैक्स
+ predicted output    क्यूसैक्स
+
+
+input sequence      bachti
+ actual output       	बचती
+ predicted output    बचती
+
+
+input sequence      malmaas
+ actual output       	मलमास
+ predicted output    मलमास
+
+
+input sequence      cadmium
+ actual output       	कैडमियम
+ predicted output    कैडमियम
+
+
+input sequence      mohini
+ actual output       	मोहिनी
+ predicted output    मोहिनी
+
+
+input sequence      aaryika
+ actual output       	आर्यिका
+ predicted output    आर्यिका
+
+
+input sequence      chheenk
+ actual output       	छींक
+ predicted output    छींक
+
+
+input sequence      phalata
+ actual output       	फलता
+ predicted output    फलता
+
+
+input sequence      baagoraa
+ actual output       	बागोरा
+ predicted output    बागोरा
+
+
+input sequence      pakaude
+ actual output       	पकौड़े
+ predicted output    पकौड़े
+
+
+input sequence      fatehgadh
+ actual output       	फतेहगढ़
+ predicted output    फतेहगढ़
+
+
+input sequence      grahanakaal
+ actual output       	ग्रहणकाल
+ predicted output    ग्रहणकाल
+
+
+input sequence      ubhaara
+ actual output       	उभारा
+ predicted output    उभारा
+
+
+input sequence      kapoor
+ actual output       	कपूर
+ predicted output    कपूर
+
+
+input sequence      sevaala
+ actual output       	सेवाला
+ predicted output    सेवाला
+
+
+input sequence      chidhate
+ actual output       	चिढ़ते
+ predicted output    चिढ़ते
+
+
+input sequence      dredger
+ actual output       	ड्रेजर
+ predicted output    ड्रेजर
+
+
+input sequence      nagarik
+ actual output       	नागारिक
+ predicted output    नागारिक
+
+
+input sequence      mitchell
+ actual output       	मिचेल
+ predicted output    मिचेल
+
+
+input sequence      standhaari
+ actual output       	स्तनधारी
+ predicted output    स्तनधारी
+
+
+input sequence      dhoraaji
+ actual output       	धोराजी
+ predicted output    धोराजी
+
+
+input sequence      chee
+ actual output       	ची
+ predicted output    ची
+
+
+input sequence      hines
+ actual output       	हाइंस
+ predicted output    हाइंस
+
+
+input sequence      dhatna
+ actual output       	धटना
+ predicted output    धटना
+
+
+input sequence      rahamat
+ actual output       	रहमत
+ predicted output    रहमत
+
+
+input sequence      wheeling
+ actual output       	व्हीलिंग
+ predicted output    व्हीलिंग
+
+
+input sequence      wipro
+ actual output       	विप्रो
+ predicted output    विप्रो
+
+
+input sequence      pulam
+ actual output       	पुलम
+ predicted output    पुलम
+
+
+input sequence      portillo
+ actual output       	पोर्टिलो
+ predicted output    पोर्टिलो
+
+
+input sequence      pedoo
+ actual output       	पेडू
+ predicted output    पेडू
+
+
+input sequence      pipra
+ actual output       	पिपरा
+ predicted output    पिपरा
+
+
+input sequence      aradas
+ actual output       	अरदास
+ predicted output    अरदास
+
+
+input sequence      khanna
+ actual output       	खन्ना
+ predicted output    खन्ना
+
+
+input sequence      tolaasan
+ actual output       	तोलासन
+ predicted output    तोलासन
+
+
+input sequence      jaanaakaree
+ actual output       	जानाकरी
+ predicted output    जानाकरी
+
+
+input sequence      aasmatee
+ actual output       	आसमती
+ predicted output    आसमती
+
+
+input sequence      girkar
+ actual output       	गिरकर
+ predicted output    गिरकर
+
+
+input sequence      vaigyaanik
+ actual output       	वैज्ञानिक
+ predicted output    वैज्ञानिक
+
+
+input sequence      phoolatee
+ actual output       	फूलती
+ predicted output    फूलती
+
+
+input sequence      punahsthapana
+ actual output       	पुनःस्थापना
+ predicted output    पुनःस्थापना
+
+
+input sequence      pratiyukti
+ actual output       	प्रतियुक्ति
+ predicted output    प्रतियुक्ति
+
+
+input sequence      nibhaaegee
+ actual output       	निभाएगी
+ predicted output    निभाएगी
+
+
+input sequence      kashyap
+ actual output       	कश्यप
+ predicted output    कश्यप
+
+
+input sequence      brigadier
+ actual output       	ब्रिगेडियर
+ predicted output    ब्रिगेडियर
+
+
+input sequence      ambikaaon
+ actual output       	अम्बिकाओं
+ predicted output    अम्बिकाओं
+
+
+input sequence      ishaak
+ actual output       	इशाक
+ predicted output    इशाक
+
+
+input sequence      dharmapatriyaan
+ actual output       	धर्मपत्रियां
+ predicted output    धर्मपत्रियां
+
+
+input sequence      ea
+ actual output       	ईए
+ predicted output    ईए
+
+
+input sequence      taaja
+ actual output       	ताजा
+ predicted output    ताजा
+
+
+input sequence      ajasra
+ actual output       	अजस्र
+ predicted output    अजस्र
+
+
+input sequence      mantrayon
+ actual output       	मंत्रयों
+ predicted output    मंत्रयों
+
+
+input sequence      jarakh
+ actual output       	जरख
+ predicted output    जरख
+
+
+input sequence      jilawaasiyon
+ actual output       	जिलावासियों
+ predicted output    जिलावासियों
+
+
+input sequence      kasegaa
+ actual output       	कसेगा
+ predicted output    कसेगा
+
+
+input sequence      deepn
+ actual output       	दीपन
+ predicted output    दीपन
+
+
+input sequence      kalasaanaa
+ actual output       	कलसाना
+ predicted output    कलसाना
+
+
+input sequence      tokne
+ actual output       	टोकने
+ predicted output    टोकने
+
+
+input sequence      falibhoot
+ actual output       	फलीभूत
+ predicted output    फलीभूत
+
+
+input sequence      kisaani
+ actual output       	किसानी
+ predicted output    किसानी
+
+
+input sequence      raktaabh
+ actual output       	रक्ताभ
+ predicted output    रक्ताभ
+
+
+input sequence      bhugta
+ actual output       	भुगता
+ predicted output    भुगता
+
+
+input sequence      khatakti
+ actual output       	खटकती
+ predicted output    खटकती
+
+
+input sequence      jain
+ actual output       	जैन
+ predicted output    जैन
+
+
+input sequence      rasaayanik
+ actual output       	रसायनिक
+ predicted output    रसायनिक
+
+
+input sequence      aurora
+ actual output       	औरोरा
+ predicted output    औरोरा
+
+
+input sequence      deshsewa
+ actual output       	देशसेवा
+ predicted output    देशसेवा
+
+
+input sequence      jini
+ actual output       	जिनी
+ predicted output    जिनी
+
+
+input sequence      asurakshit
+ actual output       	असुरक्षित
+ predicted output    असुरक्षित
+
+
+input sequence      alnkaar
+ actual output       	अलंकार
+ predicted output    अलंकार
+
+
+input sequence      rollers
+ actual output       	रोलर्स
+ predicted output    रोलर्स
+
+
+input sequence      ashaktataa
+ actual output       	अशक्तता
+ predicted output    अशक्तता
+
+
+input sequence      kaathiyavadee
+ actual output       	काठियावड़ी
+ predicted output    काठियावड़ी
+
+
+input sequence      vidyaayein
+ actual output       	विद्याएं
+ predicted output    विद्याएं
+
+
+input sequence      vidhivat
+ actual output       	विधिवत
+ predicted output    विधिवत
+
+
+input sequence      raadhe
+ actual output       	राधे
+ predicted output    राधे
+
+
+input sequence      nicky
+ actual output       	निकी
+ predicted output    निकी
+
+
+input sequence      manovaigyaaniyon
+ actual output       	मनोवैज्ञानियों
+ predicted output    मनोवैज्ञानियों
+
+
+input sequence      stanadhari
+ actual output       	स्तनधारी
+ predicted output    स्तनधारी
+
+
+input sequence      nirbaadh
+ actual output       	निर्बाध
+ predicted output    निर्बाध
+
+
+input sequence      vaitravati
+ actual output       	वैत्रवती
+ predicted output    वैत्रवती
+
+
+input sequence      panaamaa
+ actual output       	पनामा
+ predicted output    पनामा
+
+
+input sequence      nigar
+ actual output       	निगर
+ predicted output    निगर
+
+
+input sequence      monte
+ actual output       	मोंटे
+ predicted output    मोंटे
+
+
+input sequence      suneeti
+ actual output       	सुनीति
+ predicted output    सुनीति
+
+
+input sequence      ambikaon
+ actual output       	अम्बिकाओं
+ predicted output    अम्बिकाओं
+
+
+input sequence      photofrem
+ actual output       	फोटोफ्रेम
+ predicted output    फोटोफ्रेम
+
+
+input sequence      prahlaad
+ actual output       	प्रहलाद
+ predicted output    प्रहलाद
+
+
+input sequence      beesavaan
+ actual output       	बीसवां
+ predicted output    बीसवां
+
+
+input sequence      dvivedi
+ actual output       	द्विवेदी
+ predicted output    द्विवेदी
+
+
+input sequence      denewaali
+ actual output       	देनेवाली
+ predicted output    देनेवाली
+
+
+input sequence      jataati
+ actual output       	जताती
+ predicted output    जताती
+
+
+input sequence      malegaon
+ actual output       	मालेगांव
+ predicted output    मालेगांव
+
+
+input sequence      rahugaan
+ actual output       	रहुगाँ
+ predicted output    रहुगाँ
+
+
+input sequence      mahamantra
+ actual output       	महामंत्र
+ predicted output    महामंत्र
+
+
+input sequence      divyata
+ actual output       	दिव्यता
+ predicted output    दिव्यता
+
+
+input sequence      sanjivan
+ actual output       	संजीवन
+ predicted output    संजीवन
+
+
+input sequence      kuposhit
+ actual output       	कुपोषित
+ predicted output    कुपोषित
+
+
+input sequence      eksclation
+ actual output       	एक्सक्लेशन
+ predicted output    एक्सक्लेशन
+
+
+input sequence      chadhega
+ actual output       	चढ़ेगा
+ predicted output    चढ़ेगा
+
+
+input sequence      texarkana
+ actual output       	टेक्सरकाना
+ predicted output    टेक्सरकाना
+
+
+input sequence      sarahi
+ actual output       	सराही
+ predicted output    सराही
+
+
+input sequence      aeronautics
+ actual output       	एरोनॉटिक्स
+ predicted output    एरोनॉटिक्स
+
+
+input sequence      aasteen
+ actual output       	आस्तीन
+ predicted output    आस्तीन
+
+
+input sequence      svapnika
+ actual output       	स्वप्निका
+ predicted output    स्वप्निका
+
+
+input sequence      mimicry
+ actual output       	मिमिक्री
+ predicted output    मिमिक्री
+
+
+input sequence      ballabh
+ actual output       	बल्लभ
+ predicted output    बल्लभ
+
+
+input sequence      hackensack
+ actual output       	हैकेंसैक
+ predicted output    हैकेंसैक
+
+
+input sequence      aakaash
+ actual output       	आकाश
+ predicted output    आकाश
+
+
+input sequence      bona
+ actual output       	बोना
+ predicted output    बोना
+
+
+input sequence      pegav
+ actual output       	पेगव
+ predicted output    पेगव
+
+
+input sequence      kahlaya
+ actual output       	कहलाया
+ predicted output    कहलाया
+
+
+input sequence      teleebag
+ actual output       	तेलीबाग
+ predicted output    तेलीबाग
+
+
+input sequence      dhaarak
+ actual output       	धारक
+ predicted output    धारक
+
+
+input sequence      nikaalani
+ actual output       	निकालनी
+ predicted output    निकालनी
+
+
+input sequence      prashnottari
+ actual output       	प्रश्नोत्तरी
+ predicted output    प्रश्नोत्तरी
+
+
+input sequence      bhaagyoday
+ actual output       	भाग्योदय
+ predicted output    भाग्योदय
+
+
+input sequence      dharmarajne
+ actual output       	धर्मराजने
+ predicted output    धर्मराजने
+
+
+input sequence      ainjal
+ actual output       	ऐंजल
+ predicted output    ऐंजल
+
+
+input sequence      bantata
+ actual output       	बंटता
+ predicted output    बंटता
+
+
+input sequence      veeraangnaaon
+ actual output       	वीरांगनाओं
+ predicted output    वीरांगनाओं
+
+
+input sequence      sanyojakon
+ actual output       	संयोजकों
+ predicted output    संयोजकों
+
+
+input sequence      sarkaren
+ actual output       	सरकारें
+ predicted output    सरकारें
+
+
+input sequence      newtest
+ actual output       	न्यूटेस्ट
+ predicted output    न्यूटेस्ट
+
+
+input sequence      bhoopsingh
+ actual output       	भूपसिंह
+ predicted output    भूपसिंह
+
+
+input sequence      prasarakon
+ actual output       	प्रसारकों
+ predicted output    प्रसारकों
+
+
+input sequence      arellano
+ actual output       	अरेलानो
+ predicted output    अरेलानो
+
+
+input sequence      ukhadhakar
+ actual output       	उखड़कर
+ predicted output    उखड़कर
+
+
+input sequence      kumar
+ actual output       	कुमार
+ predicted output    कुमार
+
+
+input sequence      singaar
+ actual output       	सिंगार
+ predicted output    सिंगार
+
+
+input sequence      khisakate
+ actual output       	खिसकते
+ predicted output    खिसकते
+
+
+input sequence      enid
+ actual output       	एनिड
+ predicted output    एनिड
+
+
+input sequence      megapixal
+ actual output       	मेगापिक्सल
+ predicted output    मेगापिक्सल
+
+
+input sequence      munafa
+ actual output       	मुनाफा
+ predicted output    मुनाफा
+
+
+input sequence      saatsera
+ actual output       	सातसेरा
+ predicted output    सातसेरा
+
+
+input sequence      rowe
+ actual output       	रोवे
+ predicted output    रोवे
+
+
+input sequence      nitin
+ actual output       	नितिन
+ predicted output    नितिन
+
+
+input sequence      radico
+ actual output       	रेडिको
+ predicted output    रेडिको
+
+
+input sequence      dukanon
+ actual output       	दुकानों
+ predicted output    दुकानों
+
+
+input sequence      jalsansadhan
+ actual output       	जलसंसाधन
+ predicted output    जलसंसाधन
+
+
+input sequence      hugli
+ actual output       	हुगली
+ predicted output    हुगली
+
+
+input sequence      mahabaleshwar
+ actual output       	महाबलेश्वर
+ predicted output    महाबलेश्वर
+
+
+input sequence      khinchakar
+ actual output       	खिंचकर
+ predicted output    खिंचकर
+
+
+input sequence      raubadar
+ actual output       	रौबदार
+ predicted output    रौबदार
+
+
+input sequence      kavyavidhaaon
+ actual output       	काव्यविधाओं
+ predicted output    काव्यविधाओं
+
+
+input sequence      coon
+ actual output       	कून
+ predicted output    कून
+
+
+input sequence      tahkhaana
+ actual output       	तहखाना
+ predicted output    तहखाना
+
+
+input sequence      machaaye
+ actual output       	मचाए
+ predicted output    मचाए
+
+
+input sequence      pravritriyon
+ actual output       	प्रवृत्रियों
+ predicted output    प्रवृत्रियों
+
+
+input sequence      taajaa
+ actual output       	ताजा
+ predicted output    ताजा
+
+
+input sequence      jivanshaili
+ actual output       	जीवनशैली
+ predicted output    जीवनशैली
+
+
+input sequence      raktdaataaon
+ actual output       	रक्तदाताओं
+ predicted output    रक्तदाताओं
+
+
+input sequence      lagaateen
+ actual output       	लगातीं
+ predicted output    लगातीं
+
+
+input sequence      vanshvaad
+ actual output       	वंशवाद
+ predicted output    वंशवाद
+
+
+input sequence      anshaankan
+ actual output       	अंशांकन
+ predicted output    अंशांकन
+
+
+input sequence      funkane
+ actual output       	फुंकने
+ predicted output    फुंकने
+
+
+input sequence      matpatron
+ actual output       	मतपत्रों
+ predicted output    मतपत्रों
+
+
+input sequence      pahunchogee
+ actual output       	पहुंचोगी
+ predicted output    पहुंचोगी
+
+
+input sequence      amit
+ actual output       	अमित
+ predicted output    अमित
+
+
+input sequence      shaao
+ actual output       	शाओ
+ predicted output    शाओ
+
+
+input sequence      weeks
+ actual output       	वीक्स
+ predicted output    वीक्स
+
+
+input sequence      bastiyo
+ actual output       	बस्तियो
+ predicted output    बस्तियो
+
+
+input sequence      rishte
+ actual output       	रिश्ते
+ predicted output    रिश्ते
+
+
+input sequence      harijan
+ actual output       	हरिजन
+ predicted output    हरिजन
+
+
+input sequence      khilana
+ actual output       	खिलाना
+ predicted output    खिलाना
+
+
+input sequence      dukhiyon
+ actual output       	दुखियों
+ predicted output    दुखियों
+
+
+input sequence      yari
+ actual output       	यारी
+ predicted output    यारी
+
+
+input sequence      vidhamaan
+ actual output       	विधमान
+ predicted output    विधमान
+
+
+input sequence      niyanta
+ actual output       	नियंता
+ predicted output    नियंता
+
+
+input sequence      bhen
+ actual output       	भें
+ predicted output    भें
+
+
+input sequence      kpo
+ actual output       	केपीओ
+ predicted output    केपीओ
+
+
+input sequence      insano
+ actual output       	इंसानो
+ predicted output    इंसानो
+
+
+input sequence      anupryogon
+ actual output       	अनुप्रयोगों
+ predicted output    अनुप्रयोगों
+
+
+input sequence      deshseva
+ actual output       	देशसेवा
+ predicted output    देशसेवा
+
+
+input sequence      mejbani
+ actual output       	मेजबानी
+ predicted output    मेजबानी
+
+
+input sequence      chkkar
+ actual output       	चक्कर
+ predicted output    चक्कर
+
+
+input sequence      prakriyagat
+ actual output       	प्रक्रियागत
+ predicted output    प्रक्रियागत
+
+
+input sequence      nag
+ actual output       	नग
+ predicted output    नग
+
+
+input sequence      scootaron
+ actual output       	स्कूटरों
+ predicted output    स्कूटरों
+
+
+input sequence      ardhavishvas
+ actual output       	अर्धविश्वास
+ predicted output    अर्धविश्वास
+
+
+input sequence      sthitiyan
+ actual output       	स्थितियां
+ predicted output    स्थितियां
+
+
+input sequence      vidhansabhaen
+ actual output       	विधानसभाएं
+ predicted output    विधानसभाएं
+
+
+input sequence      mezbaan
+ actual output       	मेज़बान
+ predicted output    मेज़बान
+
+
+input sequence      swarnikaa
+ actual output       	स्वर्णिका
+ predicted output    स्वर्णिका
+
+
+input sequence      hatyaaropit
+ actual output       	हत्यारोपित
+ predicted output    हत्यारोपित
+
+
+input sequence      shikaayatkartaa
+ actual output       	शिकायतकर्ता
+ predicted output    शिकायतकर्ता
+
+
+input sequence      baabaao
+ actual output       	बाबाओ
+ predicted output    बाबाओ
+
+
+input sequence      haqeeqat
+ actual output       	हकीकत
+ predicted output    हकीकत
+
+
+input sequence      vartmaan
+ actual output       	वर्तमान
+ predicted output    वर्तमान
+
+
+input sequence      jiwanparyant
+ actual output       	जीवनपर्यंत
+ predicted output    जीवनपर्यंत
+
+
+input sequence      rozlyn
+ actual output       	रोजलिन
+ predicted output    रोजलिन
+
+
+input sequence      sriram
+ actual output       	श्रीराम
+ predicted output    श्रीराम
+
+
+input sequence      gopaalak
+ actual output       	गोपालक
+ predicted output    गोपालक
+
+
+input sequence      mistriyan
+ actual output       	मिस्त्रियां
+ predicted output    मिस्त्रियां
+
+
+input sequence      maisore
+ actual output       	मैसोर
+ predicted output    मैसोर
+
+
+input sequence      indaurnagar
+ actual output       	इंदौरनगर
+ predicted output    इंदौरनगर
+
+
+input sequence      usaki
+ actual output       	उसकी
+ predicted output    उसकी
+
+
+input sequence      sudeepton
+ actual output       	सुदीप्तों
+ predicted output    सुदीप्तों
+
+
+input sequence      sensing
+ actual output       	सेंसिंग
+ predicted output    सेंसिंग
+
+
+input sequence      tyler
+ actual output       	टाइलर
+ predicted output    टाइलर
+
+
+input sequence      pehno
+ actual output       	पहनो
+ predicted output    पहनो
+
+
+input sequence      fincorp
+ actual output       	फिनकॉर्प
+ predicted output    फिनकॉर्प
+
+
+input sequence      navaa
+ actual output       	नवा
+ predicted output    नवा
+
+
+input sequence      sohawal
+ actual output       	सोहावल
+ predicted output    सोहावल
+
+
+input sequence      banaam
+ actual output       	बनाम
+ predicted output    बनाम
+
+
+input sequence      raajon
+ actual output       	राजों
+ predicted output    राजों
+
+
+input sequence      cheekhana
+ actual output       	चीखना
+ predicted output    चीखना
+
+
+input sequence      antony
+ actual output       	एंटोनी
+ predicted output    एंटोनी
+
+
+input sequence      nirdeshikaa
+ actual output       	निर्देशिका
+ predicted output    निर्देशिका
+
+
+input sequence      parmeshvarpur
+ actual output       	परमेश्वरपुर
+ predicted output    परमेश्वरपुर
+
+
+input sequence      aadivaadiyon
+ actual output       	आदिवादियों
+ predicted output    आदिवादियों
+
+
+input sequence      julaahon
+ actual output       	जुलाहों
+ predicted output    जुलाहों
+
+
+input sequence      gatishilata
+ actual output       	गतिशीलता
+ predicted output    गतिशीलता
+
+
+input sequence      shipra
+ actual output       	शिप्रा
+ predicted output    शिप्रा
+
+
+input sequence      ghataatop
+ actual output       	घटाटोप
+ predicted output    घटाटोप
+
+
+input sequence      vanaspatiyaan
+ actual output       	वनस्पतियाँ
+ predicted output    वनस्पतियाँ
+
+
+input sequence      linden
+ actual output       	लिंडेन
+ predicted output    लिंडेन
+
+
+input sequence      gastrology
+ actual output       	गैस्ट्रोलॉजी
+ predicted output    गैस्ट्रोलॉजी
+
+
+input sequence      rojana
+ actual output       	रोजना
+ predicted output    रोजना
+
+
+input sequence      sev
+ actual output       	सेव
+ predicted output    सेव
+
+
+input sequence      chhateni
+ actual output       	छतेनी
+ predicted output    छतेनी
+
+
+input sequence      jivaniyan
+ actual output       	जीवनियां
+ predicted output    जीवनियां
+
+
+input sequence      dastaanen
+ actual output       	दस्तानें
+ predicted output    दस्तानें
+
+
+input sequence      dhona
+ actual output       	धोना
+ predicted output    धोना
+
+
+input sequence      mangalsinh
+ actual output       	मंगलसिंह
+ predicted output    मंगलसिंह
+
+
+input sequence      paancholaas
+ actual output       	पांचोलास
+ predicted output    पांचोलास
+
+
+input sequence      bechate
+ actual output       	बेचते
+ predicted output    बेचते
+
+
+input sequence      anuchit
+ actual output       	अनुचित
+ predicted output    अनुचित
+
+
+input sequence      avarodhak
+ actual output       	अवरोधक
+ predicted output    अवरोधक
+
+
+input sequence      ross
+ actual output       	रॉस
+ predicted output    रॉस
+
+
+input sequence      achyut
+ actual output       	अच्युत
+ predicted output    अच्युत
+
+
+input sequence      daaw
+ actual output       	दाव
+ predicted output    दाव
+
+
+input sequence      bhavanaon
+ actual output       	भावनाओं
+ predicted output    भावनाओं
+
+
+input sequence      dehdhaari
+ actual output       	देहधारी
+ predicted output    देहधारी
+
+
+input sequence      safari
+ actual output       	सफारी
+ predicted output    सफारी
+
+
+input sequence      fatehpur
+ actual output       	फ़तेहपुर
+ predicted output    फ़तेहपुर
+
+
+input sequence      spray
+ actual output       	स्प्रे
+ predicted output    स्प्रे
+
+
+input sequence      mantriyonke
+ actual output       	मंत्रियोंके
+ predicted output    मंत्रियोंके
+
+
+input sequence      lee
+ actual output       	ली
+ predicted output    ली
+
+
+input sequence      thiyeters
+ actual output       	थियेटर्स
+ predicted output    थियेटर्स
+
+
+input sequence      faanon
+ actual output       	फानों
+ predicted output    फानों
+
+
+input sequence      jeevraaj
+ actual output       	जीवराज
+ predicted output    जीवराज
+
+
+input sequence      thirake
+ actual output       	थिरके
+ predicted output    थिरके
+
+
+input sequence      mahanatam
+ actual output       	महानतम
+ predicted output    महानतम
+
+
+input sequence      kashmir
+ actual output       	कश्मीर
+ predicted output    कश्मीर
+
+
+input sequence      maarake
+ actual output       	मारके
+ predicted output    मारके
+
+
+input sequence      aparivartanshil
+ actual output       	अपरिवर्तनशील
+ predicted output    अपरिवर्तनशील
+
+
+input sequence      aagaashe
+ actual output       	आगाशे
+ predicted output    आगाशे
+
+
+input sequence      ubala
+ actual output       	उबाला
+ predicted output    उबाला
+
+
+input sequence      haaranaa
+ actual output       	हारना
+ predicted output    हारना
+
+
+input sequence      pushkar
+ actual output       	पुष्कर
+ predicted output    पुष्कर
+
+
+input sequence      shaantiyon
+ actual output       	शांतियों
+ predicted output    शांतियों
+
+
+input sequence      nerolac
+ actual output       	नेरोलेक
+ predicted output    नेरोलेक
+
+
+input sequence      chauka
+ actual output       	चौका
+ predicted output    चौका
+
+
+input sequence      tik
+ actual output       	टिक
+ predicted output    टिक
+
+
+input sequence      agyat
+ actual output       	अज्ञात
+ predicted output    अज्ञात
+
+
+input sequence      jodhikaa
+ actual output       	जोधिका
+ predicted output    जोधिका
+
+
+input sequence      badalwa
+ actual output       	बदलवा
+ predicted output    बदलवा
+
+
+input sequence      chhaapemaar
+ actual output       	छापेमार
+ predicted output    छापेमार
+
+
+input sequence      uthaakar
+ actual output       	उठाकर
+ predicted output    उठाकर
+
+
+input sequence      somi
+ actual output       	सोमी
+ predicted output    सोमी
+
+
+input sequence      welding
+ actual output       	वेल्डिंग
+ predicted output    वेल्डिंग
+
+
+input sequence      veronica
+ actual output       	वेरोनिका
+ predicted output    वेरोनिका
+
+
+input sequence      atul
+ actual output       	अतुल
+ predicted output    अतुल
+
+
+input sequence      jaanchana
+ actual output       	जांचना
+ predicted output    जांचना
+
+
+input sequence      mithilanchal
+ actual output       	मिथिलांचल
+ predicted output    मिथिलांचल
+
+
+input sequence      sajetee
+ actual output       	सजेती
+ predicted output    सजेती
+
+
+input sequence      plano
+ actual output       	प्लानो
+ predicted output    प्लानो
+
+
+input sequence      visangatiyaa
+ actual output       	विसंगतिया
+ predicted output    विसंगतिया
+
+
+input sequence      khhomche
+ actual output       	खोमचे
+ predicted output    खोमचे
+
+
+input sequence      mukeshwari
+ actual output       	मुकेश्वरी
+ predicted output    मुकेश्वरी
+
+
+input sequence      vesh
+ actual output       	वेश
+ predicted output    वेश
+
+
+input sequence      jyothy
+ actual output       	ज्योथी
+ predicted output    ज्योथी
+
+
+input sequence      yanit
+ actual output       	यनित
+ predicted output    यनित
+
+
+input sequence      chauk
+ actual output       	चौक
+ predicted output    चौक
+
+
+input sequence      chest
+ actual output       	चेस्ट
+ predicted output    चेस्ट
+
+
+input sequence      renuka
+ actual output       	रेनुका
+ predicted output    रेनुका
+
+
+input sequence      loowe
+ actual output       	लूवे
+ predicted output    लूवे
+
+
+input sequence      gulaabaag
+ actual output       	गुलाबाग
+ predicted output    गुलाबाग
+
+
+input sequence      dhaavakon
+ actual output       	धावकों
+ predicted output    धावकों
+
+
+input sequence      lim
+ actual output       	लिम
+ predicted output    लिम
+
+
+input sequence      svayamsveekrat
+ actual output       	स्वयंस्वीकृत
+ predicted output    स्वयंस्वीकृत
+
+
+input sequence      ramraj
+ actual output       	रामराज
+ predicted output    रामराज
+
+
+input sequence      janbhavna
+ actual output       	जनभावना
+ predicted output    जनभावना
+
+
+input sequence      yauniktaa
+ actual output       	यौनिकता
+ predicted output    यौनिकता
+
+
+input sequence      haathe
+ actual output       	हाथे
+ predicted output    हाथे
+
+
+input sequence      vaigyanik
+ actual output       	वैज्ञानिक
+ predicted output    वैज्ञानिक
+
+
+input sequence      samprati
+ actual output       	संप्रति
+ predicted output    संप्रति
+
+
+input sequence      matthe
+ actual output       	मत्थे
+ predicted output    मत्थे
+
+
+input sequence      savita
+ actual output       	सविता
+ predicted output    सविता
+
+
+input sequence      chacchaa
+ actual output       	चच्चा
+ predicted output    चच्चा
+
+
+input sequence      bazaru
+ actual output       	बाजारू
+ predicted output    बाजारू
+
+
+input sequence      chauki
+ actual output       	चौकी
+ predicted output    चौकी
+
+
+input sequence      nodaraanee
+ actual output       	नोडरानी
+ predicted output    नोडरानी
+
+
+input sequence      maum
+ actual output       	मौम
+ predicted output    मौम
+
+
+input sequence      aapka
+ actual output       	आपका
+ predicted output    आपका
+
+
+input sequence      likhehain
+ actual output       	लिखेहैं
+ predicted output    लिखेहैं
+
+
+input sequence      yarooshaleim
+ actual output       	यरूशलेम
+ predicted output    यरूशलेम
+
+
+input sequence      naino
+ actual output       	नैनो
+ predicted output    नैनो
+
+
+input sequence      dhamm
+ actual output       	धम्म
+ predicted output    धम्म
+
+
+input sequence      sagarika
+ actual output       	सागरिका
+ predicted output    सागरिका
+
+
+input sequence      dish
+ actual output       	डिश
+ predicted output    डिश
+
+
+input sequence      vartamaan
+ actual output       	वर्तमान
+ predicted output    वर्तमान
+
+
+input sequence      maratha
+ actual output       	मराठा
+ predicted output    मराठा
+
+
+input sequence      banvaa
+ actual output       	बनवा
+ predicted output    बनवा
+
+
+input sequence      svarnika
+ actual output       	स्वर्णिका
+ predicted output    स्वर्णिका
+
+
+input sequence      suven
+ actual output       	सुवेन
+ predicted output    सुवेन
+
+
+input sequence      deshkaal
+ actual output       	देशकाल
+ predicted output    देशकाल
+
+
+input sequence      thanvi
+ actual output       	थानवी
+ predicted output    थानवी
+
+
+input sequence      serrano
+ actual output       	सेरानो
+ predicted output    सेरानो
+
+
+input sequence      tadad
+ actual output       	तदाद
+ predicted output    तदाद
+
+
+input sequence      greenwood
+ actual output       	ग्रीनवुड
+ predicted output    ग्रीनवुड
+
+
+input sequence      anyaya
+ actual output       	अन्याय
+ predicted output    अन्याय
+
+
+input sequence      nyutest
+ actual output       	न्यूटेस्ट
+ predicted output    न्यूटेस्ट
+
+
+input sequence      anawashyak
+ actual output       	अनावश्यक
+ predicted output    अनावश्यक
+
+
+input sequence      seaten
+ actual output       	सीटें
+ predicted output    सीटें
+
+
+input sequence      riya
+ actual output       	रिया
+ predicted output    रिया
+
+
+input sequence      badlapur
+ actual output       	बदलापुर
+ predicted output    बदलापुर
+
+
+input sequence      yuddhanaukaa
+ actual output       	युद्धनौका
+ predicted output    युद्धनौका
+
+
+input sequence      aajmaanaa
+ actual output       	आजमाना
+ predicted output    आजमाना
+
+
+input sequence      nmdc
+ actual output       	एनएमडीसी
+ predicted output    एनएमडीसी
+
+
+input sequence      raashtrapit
+ actual output       	राष्ट्रपित
+ predicted output    राष्ट्रपित
+
+
+input sequence      bhalla
+ actual output       	भल्ला
+ predicted output    भल्ला
+
+
+input sequence      lahlahati
+ actual output       	लहलहाती
+ predicted output    लहलहाती
+
+
+input sequence      ghataaegi
+ actual output       	घटाएगी
+ predicted output    घटाएगी
+
+
+input sequence      sevagram
+ actual output       	सेवाग्राम
+ predicted output    सेवाग्राम
+
+
+input sequence      ankor
+ actual output       	अंकोर
+ predicted output    अंकोर
+
+
+input sequence      sailaaneepan
+ actual output       	सैलानीपन
+ predicted output    सैलानीपन
+
+
+input sequence      daav
+ actual output       	दाव
+ predicted output    दाव
+
+
+input sequence      gandhipura
+ actual output       	गांधीपुरा
+ predicted output    गांधीपुरा
+
+
+input sequence      narayangadh
+ actual output       	नारायणगढ़
+ predicted output    नारायणगढ़
+
+
+input sequence      jaylalita
+ actual output       	जयललिता
+ predicted output    जयललिता
+
+
+input sequence      masood
+ actual output       	मसूद
+ predicted output    मसूद
+
+
+input sequence      pratinirdesh
+ actual output       	प्रतिनिर्देश
+ predicted output    प्रतिनिर्देश
+
+
+input sequence      ulhaaspur
+ actual output       	उल्हासपुर
+ predicted output    उल्हासपुर
+
+
+input sequence      jalvayu
+ actual output       	जलवायु
+ predicted output    जलवायु
+
+
+input sequence      bhijvaai
+ actual output       	भिजवाई
+ predicted output    भिजवाई
+
+
+input sequence      krendron
+ actual output       	क्रेन्द्रों
+ predicted output    क्रेन्द्रों
+
+
+input sequence      vichaarakon
+ actual output       	विचारकों
+ predicted output    विचारकों
+
+
+input sequence      janbhawna
+ actual output       	जनभावना
+ predicted output    जनभावना
+
+
+input sequence      nodarani
+ actual output       	नोडरानी
+ predicted output    नोडरानी
+
+
+input sequence      wyakhyatmakta
+ actual output       	व्याख्यात्मकता
+ predicted output    व्याख्यात्मकता
+
+
+input sequence      shaishav
+ actual output       	शैशव
+ predicted output    शैशव
+
+
+input sequence      jaayke
+ actual output       	जायके
+ predicted output    जायके
+
+
+input sequence      cigniti
+ actual output       	सिग्निटी
+ predicted output    सिग्निटी
+
+
+input sequence      charcha
+ actual output       	चर्चा
+ predicted output    चर्चा
+
+
+input sequence      dhunai
+ actual output       	धुनाई
+ predicted output    धुनाई
+
+
+input sequence      janbhaavna
+ actual output       	जनभावना
+ predicted output    जनभावना
+
+
+input sequence      shwing
+ actual output       	श्विंग
+ predicted output    श्विंग
+
+
+input sequence      kaju
+ actual output       	काजू
+ predicted output    काजू
+
+
+input sequence      sanchar
+ actual output       	संचार
+ predicted output    संचार
+
+
+input sequence      ropaney
+ actual output       	रोपने
+ predicted output    रोपने
+
+
+input sequence      hollywood
+ actual output       	हॉलीवुड
+ predicted output    हॉलीवुड
+
+
+input sequence      chhinke
+ actual output       	छींके
+ predicted output    छींके
+
+
+input sequence      dhamma
+ actual output       	धम्मा
+ predicted output    धम्मा
+
+
+input sequence      technoplast
+ actual output       	टेक्नोप्लास्ट
+ predicted output    टेक्नोप्लास्ट
+
+
+input sequence      carbogen
+ actual output       	कार्बोजेन
+ predicted output    कार्बोजेन
+
+
+input sequence      vyavadhan
+ actual output       	व्यवधान
+ predicted output    व्यवधान
+
+
+input sequence      prayogshaastra
+ actual output       	प्रयोगशास्त्र
+ predicted output    प्रयोगशास्त्र
+
+
+input sequence      denver
+ actual output       	डेनवर
+ predicted output    डेनवर
+
+
+input sequence      pratisthaan
+ actual output       	प्रतिस्थान
+ predicted output    प्रतिस्थान
+
+
+input sequence      lakeer
+ actual output       	लकीर
+ predicted output    लकीर
+
+
+input sequence      sandali
+ actual output       	संदली
+ predicted output    संदली
+
+
+input sequence      jagriti
+ actual output       	जागृति
+ predicted output    जागृति
+
+
+input sequence      talwar
+ actual output       	तलवार
+ predicted output    तलवार
+
+
+input sequence      bulletin
+ actual output       	बुलेटिन
+ predicted output    बुलेटिन
+
+
+input sequence      rahegi
+ actual output       	रहेगी
+ predicted output    रहेगी
+
+
+input sequence      jamshedpur
+ actual output       	जमशेदपुर
+ predicted output    जमशेदपुर
+
+
+input sequence      darshaana
+ actual output       	दर्शाना
+ predicted output    दर्शाना
+
+
+input sequence      sudhaaratee
+ actual output       	सुधारती
+ predicted output    सुधारती
+
+
+input sequence      wasaamukt
+ actual output       	वसामुक्त
+ predicted output    वसामुक्त
+
+
+input sequence      jewaab
+ actual output       	जेवाब
+ predicted output    जेवाब
+
+
+input sequence      soto
+ actual output       	सोटो
+ predicted output    सोटो
+
+
+input sequence      pagabadha
+ actual output       	पगबाधा
+ predicted output    पगबाधा
+
+
+input sequence      arya
+ actual output       	आर्य
+ predicted output    आर्य
+
+
+input sequence      ghot
+ actual output       	घोट
+ predicted output    घोट
+
+
+input sequence      nora
+ actual output       	नोरा
+ predicted output    नोरा
+
+
+input sequence      sirsa
+ actual output       	सिरसा
+ predicted output    सिरसा
+
+
+input sequence      varun
+ actual output       	वरुण
+ predicted output    वरुण
+
+
+input sequence      dreijer
+ actual output       	ड्रेजर
+ predicted output    ड्रेजर
+
+
+input sequence      sharabon
+ actual output       	शराबों
+ predicted output    शराबों
+
+
+input sequence      saatseraa
+ actual output       	सातसेरा
+ predicted output    सातसेरा
+
+
+input sequence      dhonaa
+ actual output       	धोना
+ predicted output    धोना
+
+
+input sequence      karyakartriyon
+ actual output       	कार्यकर्त्रियों
+ predicted output    कार्यकर्त्रियों
+
+
+input sequence      bandhuon
+ actual output       	बंधुओं
+ predicted output    बंधुओं
+
+
+input sequence      prarup
+ actual output       	प्रारूप
+ predicted output    प्रारूप
+
+
+input sequence      pratigyapoorn
+ actual output       	प्रतिज्ञापूर्ण
+ predicted output    प्रतिज्ञापूर्ण
+
+
+input sequence      bhooswaami
+ actual output       	भूस्वामी
+ predicted output    भूस्वामी
+
+
+input sequence      nokari
+ actual output       	नोकरी
+ predicted output    नोकरी
+
+
+input sequence      jue
+ actual output       	जुए
+ predicted output    जुए
+
+
+input sequence      ghontana
+ actual output       	घोंटना
+ predicted output    घोंटना
+
+
+input sequence      advaitwad
+ actual output       	अद्वैतवाद
+ predicted output    अद्वैतवाद
+
+
+input sequence      lubhaavna
+ actual output       	लुभावना
+ predicted output    लुभावना
+
+
+input sequence      ropane
+ actual output       	रोपने
+ predicted output    रोपने
+
+
+input sequence      phaade
+ actual output       	फाड़े
+ predicted output    फाड़े
+
+
+input sequence      unnatiyon
+ actual output       	उन्नतियों
+ predicted output    उन्नतियों
+
+
+input sequence      molina
+ actual output       	मोलिना
+ predicted output    मोलिना
+
+
+input sequence      han
+ actual output       	हां
+ predicted output    हां
+
+
+input sequence      tonk
+ actual output       	टोंक
+ predicted output    टोंक
+
+
+input sequence      devaapur
+ actual output       	देवापुर
+ predicted output    देवापुर
+
+
+input sequence      porbandar
+ actual output       	पोरबंदर
+ predicted output    पोरबंदर
+
+
+input sequence      lagnesh
+ actual output       	लग्नेश
+ predicted output    लग्नेश
+
+
+input sequence      gaayikao
+ actual output       	गायिकाओ
+ predicted output    गायिकाओ
+
+
+input sequence      prashikshu
+ actual output       	प्रशिक्षु
+ predicted output    प्रशिक्षु
+
+
+input sequence      koraput
+ actual output       	कोरापुट
+ predicted output    कोरापुट
+
+
+input sequence      rigal
+ actual output       	रीगल
+ predicted output    रीगल
+
+
+input sequence      mridubhaashee
+ actual output       	मृदुभाषी
+ predicted output    मृदुभाषी
+
+
+input sequence      mangesh
+ actual output       	मंगेश
+ predicted output    मंगेश
+
+
+input sequence      jilavasiyon
+ actual output       	जिलावासियों
+ predicted output    जिलावासियों
+
+
+input sequence      ploskee
+ actual output       	प्लोस्की
+ predicted output    प्लोस्की
+
+
+input sequence      eksath
+ actual output       	एकसाथ
+ predicted output    एकसाथ
+
+
+input sequence      sekhar
+ actual output       	सेखर
+ predicted output    सेखर
+
+
+input sequence      rajasthan
+ actual output       	राजस्थान
+ predicted output    राजस्थान
+
+
+input sequence      vikaskhand
+ actual output       	विकासखण्ड
+ predicted output    विकासखण्ड
+
+
+input sequence      furaame
+ actual output       	फुरामे
+ predicted output    फुरामे
+
+
+input sequence      baataaya
+ actual output       	बाताया
+ predicted output    बाताया
+
+
+input sequence      barahsinga
+ actual output       	बारहसिंगा
+ predicted output    बारहसिंगा
+
+
+input sequence      kathua
+ actual output       	कठुआ
+ predicted output    कठुआ
+
+
+input sequence      palaari
+ actual output       	पलारी
+ predicted output    पलारी
+
+
+input sequence      vaabastaa
+ actual output       	वाबस्ता
+ predicted output    वाबस्ता
+
+
+input sequence      slash
+ actual output       	स्लैश
+ predicted output    स्लैश
+
+
+input sequence      selfie
+ actual output       	सेल्फी
+ predicted output    सेल्फी
+
+
+input sequence      luis
+ actual output       	लुईस
+ predicted output    लुईस
+
+
+input sequence      panchasootra
+ actual output       	पंचसूत्र
+ predicted output    पंचसूत्र
+
+
+input sequence      vaadak
+ actual output       	वादक
+ predicted output    वादक
+
+
+input sequence      generic
+ actual output       	जेनरिक
+ predicted output    जेनरिक
+
+
+input sequence      aden
+ actual output       	एडेन
+ predicted output    एडेन
+
+
+input sequence      feeds
+ actual output       	फीड्स
+ predicted output    फीड्स
+
+
+input sequence      bavji
+ actual output       	बावजी
+ predicted output    बावजी
+
+
+input sequence      vigyanon
+ actual output       	विज्ञानों
+ predicted output    विज्ञानों
+
+
+input sequence      atraikt
+ actual output       	अट्रैक्ट
+ predicted output    अट्रैक्ट
+
+
+input sequence      saraaha
+ actual output       	सराहा
+ predicted output    सराहा
+
+
+input sequence      sanvari
+ actual output       	संवरी
+ predicted output    संवरी
+
+
+input sequence      yakshadhipati
+ actual output       	यक्षाधिपति
+ predicted output    यक्षाधिपति
+
+
+input sequence      arabpatiyon
+ actual output       	अरबपतियों
+ predicted output    अरबपतियों
+
+
+input sequence      mukaddamon
+ actual output       	मुकद्दमों
+ predicted output    मुकद्दमों
+
+
+input sequence      phode
+ actual output       	फोड़े
+ predicted output    फोड़े
+
+
+input sequence      sihunta
+ actual output       	सिहुंता
+ predicted output    सिहुंता
+
+
+input sequence      kaaryakartriyon
+ actual output       	कार्यकर्त्रियों
+ predicted output    कार्यकर्त्रियों
+
+
+input sequence      pratibaddhtaaen
+ actual output       	प्रतिबद्धताएं
+ predicted output    प्रतिबद्धताएं
+
+
+input sequence      adhiwas
+ actual output       	अधिवास
+ predicted output    अधिवास
+
+
+input sequence      wishvaweer
+ actual output       	विश्ववीर
+ predicted output    विश्ववीर
+
+
+input sequence      crest
+ actual output       	क्रेस्ट
+ predicted output    क्रेस्ट
+
+
+input sequence      virechan
+ actual output       	विरेचन
+ predicted output    विरेचन
+
+
+input sequence      ujjain
+ actual output       	उज्जैन
+ predicted output    उज्जैन
+
+
+input sequence      jimme
+ actual output       	जिम्मे
+ predicted output    जिम्मे
+
+
+input sequence      dekhiyegaa
+ actual output       	देखियेगा
+ predicted output    देखियेगा
+
+
+input sequence      wajood
+ actual output       	वजूद
+ predicted output    वजूद
+
+
+input sequence      kundal
+ actual output       	कुंडल
+ predicted output    कुंडल
+
+
+input sequence      ria
+ actual output       	रिया
+ predicted output    रिया
+
+
+input sequence      management
+ actual output       	मैनेजमेंट
+ predicted output    मैनेजमेंट
+
+
+input sequence      cristis
+ actual output       	क्रिस्टिस
+ predicted output    क्रिस्टिस
+
+
+input sequence      distrabyuters
+ actual output       	डिस्ट्रब्यूटर्स
+ predicted output    डिस्ट्रब्यूटर्स
+
+
+input sequence      spell
+ actual output       	स्पेल
+ predicted output    स्पेल
+
+
+input sequence      aapkaa
+ actual output       	आपका
+ predicted output    आपका
+
+
+input sequence      jaagriti
+ actual output       	जागृति
+ predicted output    जागृति
+
+
+input sequence      gsm
+ actual output       	जीएसएम
+ predicted output    जीएसएम
+
+
+input sequence      nabha
+ actual output       	नाभा
+ predicted output    नाभा
+
+
+input sequence      lega
+ actual output       	लेगा
+ predicted output    लेगा
+
+
+input sequence      agrahari
+ actual output       	अग्रहरि
+ predicted output    अग्रहरि
+
+
+input sequence      dastaar
+ actual output       	दस्तार
+ predicted output    दस्तार
+
+
+input sequence      ballistic
+ actual output       	बैलिस्टिक
+ predicted output    बैलिस्टिक
+
+
+input sequence      chadhegaa
+ actual output       	चढ़ेगा
+ predicted output    चढ़ेगा
+
+
+input sequence      ramkot
+ actual output       	रामकोट
+ predicted output    रामकोट
+
+
+input sequence      baithate
+ actual output       	बैठते
+ predicted output    बैठते
+
+
+input sequence      solapur
+ actual output       	सोलापुर
+ predicted output    सोलापुर
+
+
+input sequence      mejbaani
+ actual output       	मेजबानी
+ predicted output    मेजबानी
+
+
+input sequence      florence
+ actual output       	फ्लोरेंस
+ predicted output    फ्लोरेंस
+
+
+input sequence      jhaadane
+ actual output       	झाड़ने
+ predicted output    झाड़ने
+
+
+input sequence      aadaan
+ actual output       	आदान
+ predicted output    आदान
+
+
+input sequence      hikaarico
+ actual output       	हिकारिको
+ predicted output    हिकारिको
+
+
+input sequence      mitravat
+ actual output       	मित्रवत
+ predicted output    मित्रवत
+
+
+input sequence      bokaro
+ actual output       	बोकारो
+ predicted output    बोकारो
+
+
+input sequence      chandramaon
+ actual output       	चंद्रमाओं
+ predicted output    चंद्रमाओं
+
+
+input sequence      parosane
+ actual output       	परोसने
+ predicted output    परोसने
+
+
+input sequence      spirits
+ actual output       	स्पिरिट्स
+ predicted output    स्पिरिट्स
+
+
+input sequence      shohadapantee
+ actual output       	शोहदापंती
+ predicted output    शोहदापंती
+
+
+input sequence      jamloki
+ actual output       	जमलोकी
+ predicted output    जमलोकी
+
+
+input sequence      premlata
+ actual output       	प्रेमलता
+ predicted output    प्रेमलता
+
+
+input sequence      vaimanasya
+ actual output       	वैमनस्य
+ predicted output    वैमनस्य
+
+
+input sequence      kelly
+ actual output       	केली
+ predicted output    केली
+
+
+input sequence      mahamantr
+ actual output       	महामंत्र
+ predicted output    महामंत्र
+
+
+input sequence      shumali
+ actual output       	शुमाली
+ predicted output    शुमाली
+
+
+input sequence      fulaaye
+ actual output       	फुलाए
+ predicted output    फुलाए
+
+
+input sequence      pruitt
+ actual output       	प्रूट
+ predicted output    प्रूट
+
+
+input sequence      kansai
+ actual output       	कंसाई
+ predicted output    कंसाई
+
+
+input sequence      aadiwadiyon
+ actual output       	आदिवादियों
+ predicted output    आदिवादियों
+
+
+input sequence      chitrakathaa
+ actual output       	चित्रकथा
+ predicted output    चित्रकथा
+
+
+input sequence      shakhayen
+ actual output       	शाखाएं
+ predicted output    शाखाएं
+
+
+input sequence      failaiye
+ actual output       	फैलाइए
+ predicted output    फैलाइए
+
+
+input sequence      jamati
+ actual output       	जमाती
+ predicted output    जमाती
+
+
+input sequence      ponding
+ actual output       	पोंडिंग
+ predicted output    पोंडिंग
+
+
+input sequence      deshkal
+ actual output       	देशकाल
+ predicted output    देशकाल
+
+
+input sequence      sitaram
+ actual output       	सीताराम
+ predicted output    सीताराम
+
+
+input sequence      kmere
+ actual output       	कमेरे
+ predicted output    कमेरे
+
+
+input sequence      bairakpur
+ actual output       	बैरकपुर
+ predicted output    बैरकपुर
+
+
+input sequence      svayamswikrat
+ actual output       	स्वयंस्वीकृत
+ predicted output    स्वयंस्वीकृत
+
+
+input sequence      kaasovo
+ actual output       	कासोवो
+ predicted output    कासोवो
+
+
+input sequence      skipper
+ actual output       	स्किपर
+ predicted output    स्किपर
+
+
+input sequence      jaipur
+ actual output       	जयपुर
+ predicted output    जयपुर
+
+
+input sequence      prasthaanon
+ actual output       	प्रस्थानों
+ predicted output    प्रस्थानों
+
+
+input sequence      radiopremi
+ actual output       	रेडियोप्रेमी
+ predicted output    रेडियोप्रेमी
+
+
+input sequence      chico
+ actual output       	चिको
+ predicted output    चिको
+
+
+input sequence      satluj
+ actual output       	सतलुज
+ predicted output    सतलुज
+
+
+input sequence      labs
+ actual output       	लैब्स
+ predicted output    लैब्स
+
+
+input sequence      harawal
+ actual output       	हरावल
+ predicted output    हरावल
+
+
+input sequence      tractors
+ actual output       	ट्रैक्टर्स
+ predicted output    ट्रैक्टर्स
+
+
+input sequence      kanchan
+ actual output       	कंचन
+ predicted output    कंचन
+
+
+input sequence      kaaryaawadhi
+ actual output       	कार्यावधि
+ predicted output    कार्यावधि
+
+
+input sequence      bhaadaa
+ actual output       	भाड़ा
+ predicted output    भाड़ा
+
+
+input sequence      baagora
+ actual output       	बागोरा
+ predicted output    बागोरा
+
+
+input sequence      abhimat
+ actual output       	अभिमत
+ predicted output    अभिमत
+
+
+input sequence      wirerless
+ actual output       	वायरलेस
+ predicted output    वायरलेस
+
+
+input sequence      khaatedar
+ actual output       	खातेदार
+ predicted output    खातेदार
+
+
+input sequence      tikiyon
+ actual output       	टिकियों
+ predicted output    टिकियों
+
+
+input sequence      milk
+ actual output       	मिल्क
+ predicted output    मिल्क
+
+
+input sequence      baker
+ actual output       	बेकर
+ predicted output    बेकर
+
+
+input sequence      sutali
+ actual output       	सुतली
+ predicted output    सुतली
+
+
+input sequence      buddharam
+ actual output       	बुद्धाराम
+ predicted output    बुद्धाराम
+
+
+input sequence      ardhavishwaas
+ actual output       	अर्धविश्वास
+ predicted output    अर्धविश्वास
+
+
+input sequence      paim
+ actual output       	पैम
+ predicted output    पैम
+
+
+input sequence      bhatnagar
+ actual output       	भटनागर
+ predicted output    भटनागर
+
+
+input sequence      swargdoot
+ actual output       	स्वर्गदूत
+ predicted output    स्वर्गदूत
+
+
+input sequence      europea
+ actual output       	यूरोपिया
+ predicted output    यूरोपिया
+
+
+input sequence      bikherane
+ actual output       	बिखेरने
+ predicted output    बिखेरने
+
+
+input sequence      hamlo
+ actual output       	हमलो
+ predicted output    हमलो
+
+
+input sequence      pakdaae
+ actual output       	पकड़ाए
+ predicted output    पकड़ाए
+
+
+input sequence      uplabdhiyon
+ actual output       	उपलब्धियों
+ predicted output    उपलब्धियों
+
+
+input sequence      colorado
+ actual output       	कोलोराडो
+ predicted output    कोलोराडो
+
+
+input sequence      sinha
+ actual output       	सिन्हा
+ predicted output    सिन्हा
+
+
+input sequence      aarya
+ actual output       	आर्य
+ predicted output    आर्य
+
+
+input sequence      purvaabhaas
+ actual output       	पूर्वाभास
+ predicted output    पूर्वाभास
+
+
+input sequence      bijendrasinh
+ actual output       	बिजेन्द्रसिंह
+ predicted output    बिजेन्द्रसिंह
+
+
+input sequence      ladki
+ actual output       	लड़की
+ predicted output    लड़की
+
+
+input sequence      karykartaon
+ actual output       	कार्यकर्ताओं
+ predicted output    कार्यकर्ताओं
+
+
+input sequence      augusta
+ actual output       	अगस्ता
+ predicted output    अगस्ता
+
+
+input sequence      anumar
+ actual output       	अनुमार
+ predicted output    अनुमार
+
+
+input sequence      yoojee
+ actual output       	यूजी
+ predicted output    यूजी
+
+
+input sequence      zamana
+ actual output       	ज़माना
+ predicted output    ज़माना
+
+
+input sequence      ghataaegee
+ actual output       	घटाएगी
+ predicted output    घटाएगी
+
+
+input sequence      danga
+ actual output       	दंगा
+ predicted output    दंगा
+
+
+input sequence      bhola
+ actual output       	भोला
+ predicted output    भोला
+
+
+input sequence      rumani
+ actual output       	रुमानी
+ predicted output    रुमानी
+
+
+input sequence      sahu
+ actual output       	साहू
+ predicted output    साहू
+
+
+input sequence      pradhaannagar
+ actual output       	प्रधाननगर
+ predicted output    प्रधाननगर
+
+
+input sequence      insaani
+ actual output       	इनसानी
+ predicted output    इनसानी
+
+
+input sequence      hamla
+ actual output       	हमला
+ predicted output    हमला
+
+
+input sequence      nutrio
+ actual output       	न्यूट्रियो
+ predicted output    न्यूट्रियो
+
+
+input sequence      farmic
+ actual output       	फार्मिक
+ predicted output    फार्मिक
+
+
+input sequence      arth
+ actual output       	अर्थ
+ predicted output    अर्थ
+
+
+input sequence      niptakar
+ actual output       	निपटाकर
+ predicted output    निपटाकर
+
+
+input sequence      cooch
+ actual output       	कूच
+ predicted output    कूच
+
+
+input sequence      sulkhan
+ actual output       	सुलखान
+ predicted output    सुलखान
+
+
+input sequence      kamere
+ actual output       	कमेरे
+ predicted output    कमेरे
+
+
+input sequence      santree
+ actual output       	संत्री
+ predicted output    संत्री
+
+
+input sequence      shakhsiyaten
+ actual output       	शख्सियतें
+ predicted output    शख्सियतें
+
+
+input sequence      ichchhee
+ actual output       	इच्छी
+ predicted output    इच्छी
+
+
+input sequence      paaliyon
+ actual output       	पालियों
+ predicted output    पालियों
+
+
+input sequence      prabhaanmantree
+ actual output       	प्रभानमंत्री
+ predicted output    प्रभानमंत्री
+
+
+input sequence      seth
+ actual output       	सेथ
+ predicted output    सेथ
+
+
+input sequence      jagtap
+ actual output       	जगताप
+ predicted output    जगताप
+
+
+input sequence      harshit
+ actual output       	हर्षित
+ predicted output    हर्षित
+
+
+input sequence      raktadataon
+ actual output       	रक्तदाताओं
+ predicted output    रक्तदाताओं
+
+
+input sequence      mexico
+ actual output       	मेक्सिको
+ predicted output    मेक्सिको
+
+
+input sequence      macon
+ actual output       	मैकॉन
+ predicted output    मैकॉन
+
+
+input sequence      israni
+ actual output       	इसरानी
+ predicted output    इसरानी
+
+
+input sequence      dork
+ actual output       	डॉर्क
+ predicted output    डॉर्क
+
+
+input sequence      jeenon
+ actual output       	जीनों
+ predicted output    जीनों
+
+
+input sequence      taraashakar
+ actual output       	तराशकर
+ predicted output    तराशकर
+
+
+input sequence      saathsaath
+ actual output       	साथसाथ
+ predicted output    साथसाथ
+
+
+input sequence      manzil
+ actual output       	मंजिल
+ predicted output    मंजिल
+
+
+input sequence      dubhashiyon
+ actual output       	दुभाषियों
+ predicted output    दुभाषियों
+
+
+input sequence      wind
+ actual output       	विंड
+ predicted output    विंड
+
+
+input sequence      ventura
+ actual output       	वेंचुरा
+ predicted output    वेंचुरा
+
+
+input sequence      rollins
+ actual output       	रोलिंस
+ predicted output    रोलिंस
+
+
+input sequence      twin
+ actual output       	ट्विन
+ predicted output    ट्विन
+
+
+input sequence      divya
+ actual output       	दिव्य
+ predicted output    दिव्य
+
+
+input sequence      gabalee
+ actual output       	गबली
+ predicted output    गबली
+
+
+input sequence      novato
+ actual output       	नोवाटो
+ predicted output    नोवाटो
+
+
+input sequence      rishwatkhor
+ actual output       	रिश्वतखोर
+ predicted output    रिश्वतखोर
+
+
+input sequence      faansi
+ actual output       	फांसी
+ predicted output    फांसी
+
+
+input sequence      nihlani
+ actual output       	निहलानी
+ predicted output    निहलानी
+
+
+input sequence      pintaa
+ actual output       	पिंटा
+ predicted output    पिंटा
+
+
+input sequence      greer
+ actual output       	ग्रीर
+ predicted output    ग्रीर
+
+
+input sequence      prakaashit
+ actual output       	प्रकाषित
+ predicted output    प्रकाषित
+
+
+input sequence      raakhe
+ actual output       	राखे
+ predicted output    राखे
+
+
+input sequence      najariyon
+ actual output       	नजरियों
+ predicted output    नजरियों
+
+
+input sequence      parmeshwarpur
+ actual output       	परमेश्वरपुर
+ predicted output    परमेश्वरपुर
+
+
+input sequence      uthanee
+ actual output       	उठनी
+ predicted output    उठनी
+
+
+input sequence      suchikitsaa
+ actual output       	सुचिकित्सा
+ predicted output    सुचिकित्सा
+
+
+input sequence      chhudwaya
+ actual output       	छुड़वाया
+ predicted output    छुड़वाया
+
+
+input sequence      vidagdhaa
+ actual output       	विदग्धा
+ predicted output    विदग्धा
+
+
+input sequence      ratanpur
+ actual output       	रतनपुर
+ predicted output    रतनपुर
+
+
+input sequence      guna
+ actual output       	गुना
+ predicted output    गुना
+
+
+input sequence      denevali
+ actual output       	देनेवाली
+ predicted output    देनेवाली
+
+
+input sequence      visheshanon
+ actual output       	विशेषणों
+ predicted output    विशेषणों
+
+
+input sequence      sambit
+ actual output       	संबित
+ predicted output    संबित
+
+
+input sequence      pulinde
+ actual output       	पुलिंदे
+ predicted output    पुलिंदे
+
+
+input sequence      mahoney
+ actual output       	महोनी
+ predicted output    महोनी
+
+
+input sequence      khare
+ actual output       	खरे
+ predicted output    खरे
+
+
+input sequence      sawaal
+ actual output       	सवाल
+ predicted output    सवाल
+
+
+input sequence      aalochak
+ actual output       	आलोचक
+ predicted output    आलोचक
+
+
+input sequence      jayalalitaa
+ actual output       	जयललिता
+ predicted output    जयललिता
+
+
+input sequence      amjhera
+ actual output       	अमझेरा
+ predicted output    अमझेरा
+
+
+input sequence      apnani
+ actual output       	अपनानी
+ predicted output    अपनानी
+
+
+input sequence      najib
+ actual output       	नजीब
+ predicted output    नजीब
+
+
+input sequence      jabalpur
+ actual output       	जबलपुर
+ predicted output    जबलपुर
+
+
+input sequence      meharaam
+ actual output       	मेहराम
+ predicted output    मेहराम
+
+
+input sequence      ripan
+ actual output       	रिपन
+ predicted output    रिपन
+
+
+input sequence      lalaaniyaa
+ actual output       	ललानिया
+ predicted output    ललानिया
+
+
+input sequence      bhulon
+ actual output       	भूलों
+ predicted output    भूलों
+
+
+input sequence      jodta
+ actual output       	जोड़ता
+ predicted output    जोड़ता
+
+
+input sequence      mahattaron
+ actual output       	महत्तरों
+ predicted output    महत्तरों
+
+
+input sequence      dhairyavaan
+ actual output       	धैर्यवान
+ predicted output    धैर्यवान
+
+
+input sequence      prince
+ actual output       	प्रिंस
+ predicted output    प्रिंस
+
+
+input sequence      meza
+ actual output       	मेज़ा
+ predicted output    मेज़ा
+
+
+input sequence      bhusawal
+ actual output       	भुसावल
+ predicted output    भुसावल
+
+
+input sequence      buddhizeevon
+ actual output       	बुद्धिजीवों
+ predicted output    बुद्धिजीवों
+
+
+input sequence      radar
+ actual output       	रदर
+ predicted output    रदर
+
+
+input sequence      ubaal
+ actual output       	उबाल
+ predicted output    उबाल
+
+
+input sequence      jeevanshaili
+ actual output       	जीवनशैली
+ predicted output    जीवनशैली
+
+
+input sequence      chart
+ actual output       	चार्ट
+ predicted output    चार्ट
+
+
+input sequence      vedon
+ actual output       	वेदों
+ predicted output    वेदों
+
+
+input sequence      bhaate
+ actual output       	भाते
+ predicted output    भाते
+
+
+input sequence      bayaane
+ actual output       	बयाने
+ predicted output    बयाने
+
+
+input sequence      varnankartaaon
+ actual output       	वर्णनकर्ताओं
+ predicted output    वर्णनकर्ताओं
+
+
+input sequence      lokotsaw
+ actual output       	लोकोत्सव
+ predicted output    लोकोत्सव
+
+
+input sequence      tewree
+ actual output       	तेवरी
+ predicted output    तेवरी
+
+
+input sequence      malwan
+ actual output       	मालवान
+ predicted output    मालवान
+
+
+input sequence      susanskrit
+ actual output       	सुसंस्कृत
+ predicted output    सुसंस्कृत
+
+
+input sequence      sandhol
+ actual output       	संधोल
+ predicted output    संधोल
+
+
+input sequence      haabban
+ actual output       	हाब्बन
+ predicted output    हाब्बन
+
+
+input sequence      bowie
+ actual output       	बोवी
+ predicted output    बोवी
+
+
+input sequence      chennai
+ actual output       	चेन्नई
+ predicted output    चेन्नई
+
+
+input sequence      kamaljeet
+ actual output       	कमलजीत
+ predicted output    कमलजीत
+
+
+input sequence      phalne
+ actual output       	फलने
+ predicted output    फलने
+
+
+input sequence      mithyaachariyon
+ actual output       	मिथ्याचारियों
+ predicted output    मिथ्याचारियों
+
+
+input sequence      sanskrutiyon
+ actual output       	संस्कृतियों
+ predicted output    संस्कृतियों
+
+
+input sequence      chhatenee
+ actual output       	छतेनी
+ predicted output    छतेनी
+
+
+input sequence      dushkriyaa
+ actual output       	दुष्क्रिया
+ predicted output    दुष्क्रिया
+
+
+input sequence      dhndhe
+ actual output       	धंधे
+ predicted output    धंधे
+
+
+input sequence      kremistry
+ actual output       	क्रेमिस्ट्री
+ predicted output    क्रेमिस्ट्री
+
+
+input sequence      lehna
+ actual output       	लहना
+ predicted output    लहना
+
+
+input sequence      franciska
+ actual output       	फ्रांसिस्का
+ predicted output    फ्रांसिस्का
+
+
+input sequence      putla
+ actual output       	पुतला
+ predicted output    पुतला
+
+
+input sequence      sathsath
+ actual output       	साथसाथ
+ predicted output    साथसाथ
+
+
+input sequence      mohim
+ actual output       	मोहिम
+ predicted output    मोहिम
+
+
+input sequence      cpm
+ actual output       	सीपीएम
+ predicted output    सीपीएम
+
+
+input sequence      sarebajar
+ actual output       	सरेबाजार
+ predicted output    सरेबाजार
+
+
+input sequence      mold
+ actual output       	मोल्ड
+ predicted output    मोल्ड
+
+
+input sequence      warnankartaaon
+ actual output       	वर्णनकर्ताओं
+ predicted output    वर्णनकर्ताओं
+
+
+input sequence      hooper
+ actual output       	हूपर
+ predicted output    हूपर
+
+
+input sequence      waters
+ actual output       	वाटर्स
+ predicted output    वाटर्स
+
+
+input sequence      lubhaate
+ actual output       	लुभाते
+ predicted output    लुभाते
+
+
+input sequence      soya
+ actual output       	सोया
+ predicted output    सोया
+
+
+input sequence      label
+ actual output       	लेबल
+ predicted output    लेबल
+
+
+input sequence      le
+ actual output       	ले
+ predicted output    ले
+
+
+input sequence      satuaa
+ actual output       	सतुआ
+ predicted output    सतुआ
+
+
+input sequence      dabolim
+ actual output       	डाबोलिम
+ predicted output    डाबोलिम
+
+
+input sequence      labelling
+ actual output       	लेबलिंग
+ predicted output    लेबलिंग
+
+
+input sequence      asmitaon
+ actual output       	अस्मिताओं
+ predicted output    अस्मिताओं
+
+
+input sequence      want
+ actual output       	वांट
+ predicted output    वांट
+
+
+input sequence      patel
+ actual output       	पटेल
+ predicted output    पटेल
+
+
+input sequence      kaaji
+ actual output       	काजी
+ predicted output    काजी
+
+
+input sequence      dostanapurna
+ actual output       	दोस्तानापूर्ण
+ predicted output    दोस्तानापूर्ण
+
+
+input sequence      state
+ actual output       	स्टेट
+ predicted output    स्टेट
+
+
+input sequence      ragon
+ actual output       	रागों
+ predicted output    रागों
+
+
+input sequence      avyavasayi
+ actual output       	अव्यवसायी
+ predicted output    अव्यवसायी
+
+
+input sequence      ashariri
+ actual output       	अशरीरी
+ predicted output    अशरीरी
+
+
+input sequence      sirpur
+ actual output       	सिरपुर
+ predicted output    सिरपुर
+
+
+input sequence      aalha
+ actual output       	आल्हा
+ predicted output    आल्हा
+
+
+input sequence      arunachal
+ actual output       	अरुणाचल
+ predicted output    अरुणाचल
+
+
+input sequence      bagli
+ actual output       	बागली
+ predicted output    बागली
+
+
+input sequence      sanskariyon
+ actual output       	संस्कारियों
+ predicted output    संस्कारियों
+
+
+input sequence      siyah
+ actual output       	सियाह
+ predicted output    सियाह
+
+
+input sequence      gujaarane
+ actual output       	गुजारने
+ predicted output    गुजारने
+
+
+input sequence      vrutton
+ actual output       	वृत्तों
+ predicted output    वृत्तों
+
+
+input sequence      ubhrega
+ actual output       	उभरेगा
+ predicted output    उभरेगा
+
+
+input sequence      narbhakshi
+ actual output       	नरभक्षी
+ predicted output    नरभक्षी
+
+
+input sequence      nishra
+ actual output       	निश्रा
+ predicted output    निश्रा
+
+
+input sequence      pali
+ actual output       	पाली
+ predicted output    पाली
+
+
+input sequence      chandan
+ actual output       	चंदन
+ predicted output    चंदन
+
+
+input sequence      mega
+ actual output       	मेगा
+ predicted output    मेगा
+
+
+input sequence      navketan
+ actual output       	नवकेतन
+ predicted output    नवकेतन
+
+
+input sequence      tapan
+ actual output       	तपन
+ predicted output    तपन
+
+
+input sequence      aaraam
+ actual output       	आराम
+ predicted output    आराम
+
+
+input sequence      wokha
+ actual output       	वोखा
+ predicted output    वोखा
+
+
+input sequence      chhetri
+ actual output       	छेत्री
+ predicted output    छेत्री
+
+
+input sequence      parween
+ actual output       	परवीन
+ predicted output    परवीन
+
+
+input sequence      kukreja
+ actual output       	कुकरेजा
+ predicted output    कुकरेजा
+
+
+input sequence      narmi
+ actual output       	नरमी
+ predicted output    नरमी
+
+
+input sequence      avrodhak
+ actual output       	अवरोधक
+ predicted output    अवरोधक
+
+
+input sequence      teeron
+ actual output       	तीरों
+ predicted output    तीरों
+
+
+input sequence      ganesha
+ actual output       	गणेशा
+ predicted output    गणेशा
+
+
+input sequence      anupama
+ actual output       	अनुपमा
+ predicted output    अनुपमा
+
+
+input sequence      talabgaar
+ actual output       	तलबगार
+ predicted output    तलबगार
+
+
+input sequence      boodam
+ actual output       	बूदम
+ predicted output    बूदम
+
+
+input sequence      macias
+ actual output       	मैकियास
+ predicted output    मैकियास
+
+
+input sequence      suction
+ actual output       	सक्शन
+ predicted output    सक्शन
+
+
+input sequence      bhumi
+ actual output       	भूमी
+ predicted output    भूमी
+
+
+input sequence      rangate
+ actual output       	रंगते
+ predicted output    रंगते
+
+
+input sequence      penshandhaariyon
+ actual output       	पेंशनधारियों
+ predicted output    पेंशनधारियों
+
+
+input sequence      karykartaaon
+ actual output       	कार्यकर्ताओं
+ predicted output    कार्यकर्ताओं
+
+
+input sequence      vidyaaon
+ actual output       	विद्याओं
+ predicted output    विद्याओं
+
+
+input sequence      raith
+ actual output       	रैथ
+ predicted output    रैथ
+
+
+input sequence      pushpa
+ actual output       	पुष्पा
+ predicted output    पुष्पा
+
+
+input sequence      kargil
+ actual output       	कारगिल
+ predicted output    कारगिल
+
+
+input sequence      biji
+ actual output       	बिजी
+ predicted output    बिजी
+
+
+input sequence      stithi
+ actual output       	स्तिथि
+ predicted output    स्तिथि
+
+
+input sequence      kaaloniwaasiyon
+ actual output       	कालोनीवासियों
+ predicted output    कालोनीवासियों
+
+
+input sequence      suhanubhooti
+ actual output       	सुहानुभूति
+ predicted output    सुहानुभूति
+
+
+input sequence      virodhabhasi
+ actual output       	विरोधाभासी
+ predicted output    विरोधाभासी
+
+
+input sequence      avyavasayee
+ actual output       	अव्यवसायी
+ predicted output    अव्यवसायी
+
+
+input sequence      pratishthi
+ actual output       	प्रतिष्ठी
+ predicted output    प्रतिष्ठी
+
+
+input sequence      parchiyon
+ actual output       	पर्चियों
+ predicted output    पर्चियों
+
+
+input sequence      prativad
+ actual output       	प्रतिवाद
+ predicted output    प्रतिवाद
+
+
+input sequence      baatah
+ actual output       	बातः
+ predicted output    बातः
+
+
+input sequence      kangan
+ actual output       	कंगन
+ predicted output    कंगन
+
+
+input sequence      premaatmak
+ actual output       	प्रेमात्मक
+ predicted output    प्रेमात्मक
+
+
+input sequence      sipahi
+ actual output       	सिपाही
+ predicted output    सिपाही
+
+
+input sequence      usak
+ actual output       	उसक
+ predicted output    उसक
+
+
+input sequence      nagpur
+ actual output       	नागपुर
+ predicted output    नागपुर
+
+
+input sequence      ubarkar
+ actual output       	उबरकर
+ predicted output    उबरकर
+
+
+input sequence      vyaktigat
+ actual output       	व्यक्तिगत
+ predicted output    व्यक्तिगत
+
+
+input sequence      flesh
+ actual output       	फ्लेश
+ predicted output    फ्लेश
+
+
+input sequence      rashtrak
+ actual output       	राष्ट्रक
+ predicted output    राष्ट्रक
+
+
+input sequence      raajbhaaee
+ actual output       	राजभाई
+ predicted output    राजभाई
+
+
+input sequence      subhaay
+ actual output       	सुभाय
+ predicted output    सुभाय
+
+
+input sequence      flowers
+ actual output       	फ्लावर्स
+ predicted output    फ्लावर्स
+
+
+input sequence      uthane
+ actual output       	उठने
+ predicted output    उठने
+
+
+input sequence      sarguja
+ actual output       	सरगुजा
+ predicted output    सरगुजा
+
+
+input sequence      mundwa
+ actual output       	मुंडवा
+ predicted output    मुंडवा
+
+
+input sequence      tolasan
+ actual output       	तोलासन
+ predicted output    तोलासन
+
+
+input sequence      kanaal
+ actual output       	कनाल
+ predicted output    कनाल
+
+
+input sequence      felix
+ actual output       	फेलिक्स
+ predicted output    फेलिक्स
+
+
+input sequence      hastaksharon
+ actual output       	हस्ताक्षरों
+ predicted output    हस्ताक्षरों
+
+
+input sequence      bhilai
+ actual output       	भिलाई
+ predicted output    भिलाई
+
+
+input sequence      fortis
+ actual output       	फोर्टिस
+ predicted output    फोर्टिस
+
+
+input sequence      jainon
+ actual output       	जैनों
+ predicted output    जैनों
+
+
+input sequence      khitabon
+ actual output       	खिताबों
+ predicted output    खिताबों
+
+
+input sequence      enka
+ actual output       	एनका
+ predicted output    एनका
+
+
+input sequence      siyasi
+ actual output       	सियासी
+ predicted output    सियासी
+
+
+input sequence      toogaa
+ actual output       	टूगा
+ predicted output    टूगा
+
+
+input sequence      kumavat
+ actual output       	कुमावत
+ predicted output    कुमावत
+
+
+input sequence      najraane
+ actual output       	नजराने
+ predicted output    नजराने
+
+
+input sequence      pashuchaaraa
+ actual output       	पशुचारा
+ predicted output    पशुचारा
+
+
+input sequence      webuniyadi
+ actual output       	वेबुनियादी
+ predicted output    वेबुनियादी
+
+
+input sequence      chhalla
+ actual output       	छल्ला
+ predicted output    छल्ला
+
+
+input sequence      samprbhuta
+ actual output       	संप्रभुता
+ predicted output    संप्रभुता
+
+
+input sequence      jauhari
+ actual output       	जौहरी
+ predicted output    जौहरी
+
+
+input sequence      khitaabon
+ actual output       	खिताबों
+ predicted output    खिताबों
+
+
+input sequence      ghise
+ actual output       	घिसे
+ predicted output    घिसे
+
+
+input sequence      baadhit
+ actual output       	बाधित
+ predicted output    बाधित
+
+
+input sequence      koling
+ actual output       	कोलिंग
+ predicted output    कोलिंग
+
+
+input sequence      samadhiyon
+ actual output       	समाधियों
+ predicted output    समाधियों
+
+
+input sequence      chhapemar
+ actual output       	छापेमार
+ predicted output    छापेमार
+
+
+input sequence      lagega
+ actual output       	लगेगा
+ predicted output    लगेगा
+
+
+input sequence      durghatna
+ actual output       	दुर्घटना
+ predicted output    दुर्घटना
+
+
+input sequence      nitiyon
+ actual output       	नितियों
+ predicted output    नितियों
+
+
+input sequence      singam
+ actual output       	सिंगम
+ predicted output    सिंगम
+
+
+input sequence      peelepan
+ actual output       	पीलेपन
+ predicted output    पीलेपन
+
+
+input sequence      dukaanon
+ actual output       	दुकानों
+ predicted output    दुकानों
+
+
+input sequence      narsanharon
+ actual output       	नरसंहारों
+ predicted output    नरसंहारों
+
+
+input sequence      herrera
+ actual output       	हेरेरा
+ predicted output    हेरेरा
+
+
+input sequence      junun
+ actual output       	जुनून
+ predicted output    जुनून
+
+
+input sequence      jagdalpur
+ actual output       	जगदलपुर
+ predicted output    जगदलपुर
+
+
+input sequence      swiftlet
+ actual output       	स्विफ्टलेट
+ predicted output    स्विफ्टलेट
+
+
+input sequence      pitts
+ actual output       	पिट्स
+ predicted output    पिट्स
+
+
+input sequence      ropi
+ actual output       	रोपी
+ predicted output    रोपी
+
+
+input sequence      chaukiyan
+ actual output       	चौकियां
+ predicted output    चौकियां
+
+
+input sequence      development
+ actual output       	डेवलपमेंट
+ predicted output    डेवलपमेंट
+
+
+input sequence      bhoogol
+ actual output       	भूगोल
+ predicted output    भूगोल
+
+
+input sequence      stray
+ actual output       	स्ट्रे
+ predicted output    स्ट्रे
+
+
+input sequence      aalsi
+ actual output       	आलसी
+ predicted output    आलसी
+
+
+input sequence      mahanideshak
+ actual output       	महानिदेशक
+ predicted output    महानिदेशक
+
+
+input sequence      bhattacharya
+ actual output       	भट्टाचार्य
+ predicted output    भट्टाचार्य
+
+
+input sequence      trenton
+ actual output       	ट्रेंटन
+ predicted output    ट्रेंटन
+
+
+input sequence      odom
+ actual output       	ओडोम
+ predicted output    ओडोम
+
+
+input sequence      matiyaanaa
+ actual output       	मतियाना
+ predicted output    मतियाना
+
+
+input sequence      rishtey
+ actual output       	रिश्ते
+ predicted output    रिश्ते
+
+
+input sequence      anaavashyak
+ actual output       	अनावश्यक
+ predicted output    अनावश्यक
+
+
+input sequence      rijhaayaa
+ actual output       	रिझाया
+ predicted output    रिझाया
+
+
+input sequence      sapane
+ actual output       	सपने
+ predicted output    सपने
+
+
+input sequence      chuneen
+ actual output       	चुनीं
+ predicted output    चुनीं
+
+
+input sequence      karab
+ actual output       	करब
+ predicted output    करब
+
+
+input sequence      uski
+ actual output       	उसकी
+ predicted output    उसकी
+
+
+input sequence      parikshao
+ actual output       	परीक्षाओ
+ predicted output    परीक्षाओ
+
+
+input sequence      fyuji
+ actual output       	फ्यूजी
+ predicted output    फ्यूजी
+
+
+input sequence      laaminaar
+ actual output       	लामिनार
+ predicted output    लामिनार
+
+
+input sequence      kaushik
+ actual output       	कौशिक
+ predicted output    कौशिक
+
+
+input sequence      bekaaboo
+ actual output       	बेकाबू
+ predicted output    बेकाबू
+
+
+input sequence      nano
+ actual output       	नैनो
+ predicted output    नैनो
+
+
+input sequence      ropee
+ actual output       	रोपी
+ predicted output    रोपी
+
+
+input sequence      baabat
+ actual output       	बाबत
+ predicted output    बाबत
+
+
+input sequence      haliyaa
+ actual output       	हलिया
+ predicted output    हलिया
+
+
+input sequence      pope
+ actual output       	पोप
+ predicted output    पोप
+
+
+input sequence      karkhele
+ actual output       	करखेले
+ predicted output    करखेले
+
+
+input sequence      kathhnaeeyon
+ actual output       	कठनाईयों
+ predicted output    कठनाईयों
+
+
+input sequence      ramjeelaal
+ actual output       	रामजीलाल
+ predicted output    रामजीलाल
+
+
+input sequence      vasulta
+ actual output       	वसूलता
+ predicted output    वसूलता
+
+
+input sequence      mukhyamantri
+ actual output       	मुख्यमंत्री
+ predicted output    मुख्यमंत्री
+
+
+input sequence      maria
+ actual output       	मारिया
+ predicted output    मारिया
+
+
+input sequence      buddhijivon
+ actual output       	बुद्धिजीवों
+ predicted output    बुद्धिजीवों
+
+
+input sequence      sudip
+ actual output       	सुदीप
+ predicted output    सुदीप
+
+
+input sequence      jodo
+ actual output       	जोड़ो
+ predicted output    जोड़ो
+
+
+input sequence      tasdeek
+ actual output       	तसदीक
+ predicted output    तसदीक
+
+
+input sequence      nikaalni
+ actual output       	निकालनी
+ predicted output    निकालनी
+
+
+input sequence      bhatkaanaa
+ actual output       	भटकाना
+ predicted output    भटकाना
+
+
+input sequence      registerd
+ actual output       	रजिस्टर्ड
+ predicted output    रजिस्टर्ड
+
+
+input sequence      bhandara
+ actual output       	भंडारा
+ predicted output    भंडारा
+
+
+input sequence      lima
+ actual output       	लिमा
+ predicted output    लिमा
+
+
+input sequence      khariya
+ actual output       	खरिया
+ predicted output    खरिया
+
+
+input sequence      rishiraj
+ actual output       	ऋषिराज
+ predicted output    ऋषिराज
+
+
+input sequence      ritukaant
+ actual output       	ऋतुकांत
+ predicted output    ऋतुकांत
+
+
+input sequence      kurmi
+ actual output       	कुर्मी
+ predicted output    कुर्मी
+
+
+input sequence      dastaanaa
+ actual output       	दस्ताना
+ predicted output    दस्ताना
+
+
+input sequence      emrald
+ actual output       	एमरल्ड
+ predicted output    एमरल्ड
+
+
+input sequence      ghumaaee
+ actual output       	घुमाई
+ predicted output    घुमाई
+
+
+input sequence      dharmaraajne
+ actual output       	धर्मराजने
+ predicted output    धर्मराजने
+
+
+input sequence      jhaohuee
+ actual output       	झाओहुई
+ predicted output    झाओहुई
+
+
+input sequence      khemik
+ actual output       	खेमिक
+ predicted output    खेमिक
+
+
+input sequence      tugalki
+ actual output       	तुगलकी
+ predicted output    तुगलकी
+
+
+input sequence      avi
+ actual output       	अवि
+ predicted output    अवि
+
+
+input sequence      racer
+ actual output       	रेसर
+ predicted output    रेसर
+
+
+input sequence      bhakaa
+ actual output       	भका
+ predicted output    भका
+
+
+input sequence      andhabhakto
+ actual output       	अंधभक्तो
+ predicted output    अंधभक्तो
+
+
+input sequence      najriyon
+ actual output       	नजरियों
+ predicted output    नजरियों
+
+
+input sequence      feka
+ actual output       	फेका
+ predicted output    फेका
+
+
+input sequence      tinkaa
+ actual output       	टिंका
+ predicted output    टिंका
+
+
+input sequence      jaatiyon
+ actual output       	जातियों
+ predicted output    जातियों
+
+
+input sequence      vidyuteekrit
+ actual output       	विद्युतीकृत
+ predicted output    विद्युतीकृत
+
+
+input sequence      wadaraa
+ actual output       	वदरा
+ predicted output    वदरा
+
+
+input sequence      ved
+ actual output       	वेड
+ predicted output    वेड
+
+
+input sequence      akhuaapaadaa
+ actual output       	अखुआपाड़ा
+ predicted output    अखुआपाड़ा
+
+
+input sequence      vigyaanvaadiyon
+ actual output       	विज्ञानवादियों
+ predicted output    विज्ञानवादियों
+
+
+input sequence      patkathaein
+ actual output       	पटकथाएं
+ predicted output    पटकथाएं
+
+
+input sequence      suman
+ actual output       	सुमन
+ predicted output    सुमन
+
+
+input sequence      dukhon
+ actual output       	दुखों
+ predicted output    दुखों
+
+
+input sequence      nesco
+ actual output       	नेस्को
+ predicted output    नेस्को
+
+
+input sequence      phooltee
+ actual output       	फूलती
+ predicted output    फूलती
+
+
+input sequence      tools
+ actual output       	टूल्स
+ predicted output    टूल्स
+
+
+input sequence      aatmamugdh
+ actual output       	आत्ममुग्ध
+ predicted output    आत्ममुग्ध
+
+
+input sequence      rockford
+ actual output       	रॉकफोर्ड
+ predicted output    रॉकफोर्ड
+
+
+input sequence      devnaar
+ actual output       	देवनार
+ predicted output    देवनार
+
+
+input sequence      uttariya
+ actual output       	उत्तरिया
+ predicted output    उत्तरिया
+
+
+input sequence      hakikat
+ actual output       	हकीकत
+ predicted output    हकीकत
+
+
+input sequence      eliminator
+ actual output       	एलिमिनेटर
+ predicted output    एलिमिनेटर
+
+
+input sequence      kar
+ actual output       	कर
+ predicted output    कर
+
+
+input sequence      daftarwale
+ actual output       	दफ्तरवाले
+ predicted output    दफ्तरवाले
+
+
+input sequence      kambalon
+ actual output       	कंबलों
+ predicted output    कंबलों
+
+
+input sequence      jita
+ actual output       	जिता
+ predicted output    जिता
+
+
+input sequence      sevala
+ actual output       	सेवाला
+ predicted output    सेवाला
+
+
+input sequence      kshetren
+ actual output       	क्षेत्रें
+ predicted output    क्षेत्रें
+
+
+input sequence      khangaali
+ actual output       	खंगाली
+ predicted output    खंगाली
+
+
+input sequence      pushpit
+ actual output       	पुष्पित
+ predicted output    पुष्पित
+
+
+input sequence      bodara
+ actual output       	बोदरा
+ predicted output    बोदरा
+
+
+input sequence      dootaay
+ actual output       	दूताय
+ predicted output    दूताय
+
+
+input sequence      kaavyavidhaaon
+ actual output       	काव्यविधाओं
+ predicted output    काव्यविधाओं
+
+
+input sequence      jaankaaron
+ actual output       	जानकारों
+ predicted output    जानकारों
+
+
+input sequence      kubuddeen
+ actual output       	कुबुद्दीन
+ predicted output    कुबुद्दीन
+
+
+input sequence      jewellers
+ actual output       	ज्वेलर्स
+ predicted output    ज्वेलर्स
+
+
+input sequence      rojlin
+ actual output       	रोजलिन
+ predicted output    रोजलिन
+
+
+input sequence      haradil
+ actual output       	हरदिल
+ predicted output    हरदिल
+
+
+input sequence      khelaane
+ actual output       	खेलाने
+ predicted output    खेलाने
+
+
+input sequence      stration
+ actual output       	स्ट्रेशन
+ predicted output    स्ट्रेशन
+
+
+input sequence      lidaron
+ actual output       	लीडरों
+ predicted output    लीडरों
+
+
+input sequence      sevakon
+ actual output       	सेवकों
+ predicted output    सेवकों
+
+
+input sequence      poorvapekshaon
+ actual output       	पूर्वापेक्षाओं
+ predicted output    पूर्वापेक्षाओं
+
+
+input sequence      naakaam
+ actual output       	नाकाम
+ predicted output    नाकाम
+
+
+input sequence      adhivas
+ actual output       	अधिवास
+ predicted output    अधिवास
+
+
+input sequence      larry
+ actual output       	लैरी
+ predicted output    लैरी
+
+
+input sequence      tareeko
+ actual output       	तरीको
+ predicted output    तरीको
+
+
+input sequence      chicopee
+ actual output       	चिकोपी
+ predicted output    चिकोपी
+
+
+input sequence      baramad
+ actual output       	बरामद
+ predicted output    बरामद
+
+
+input sequence      kav
+ actual output       	काव
+ predicted output    काव
+
+
+input sequence      vivekaadheen
+ actual output       	विवेकाधीन
+ predicted output    विवेकाधीन
+
+
+input sequence      hokhat
+ actual output       	होखत
+ predicted output    होखत
+
+
+input sequence      chaurasiya
+ actual output       	चौरसिया
+ predicted output    चौरसिया
+
+
+input sequence      devapur
+ actual output       	देवापुर
+ predicted output    देवापुर
+
+
+input sequence      manwaayaa
+ actual output       	मनवाया
+ predicted output    मनवाया
+
+
+input sequence      latakkar
+ actual output       	लटककर
+ predicted output    लटककर
+
+
+input sequence      niya
+ actual output       	निया
+ predicted output    निया
+
+
+input sequence      udhampur
+ actual output       	उधमपुर
+ predicted output    उधमपुर
+
+
+input sequence      chhupata
+ actual output       	छुपता
+ predicted output    छुपता
+
+
+input sequence      raghupati
+ actual output       	रघुपति
+ predicted output    रघुपति
+
+
+input sequence      gangtok
+ actual output       	गंगटोक
+ predicted output    गंगटोक
+
+
+input sequence      cricket
+ actual output       	क्रिकेट
+ predicted output    क्रिकेट
+
+
+input sequence      francisco
+ actual output       	फ्रांसिस्को
+ predicted output    फ्रांसिस्को
+
+
+input sequence      aagaman
+ actual output       	आगमन
+ predicted output    आगमन
+
+
+input sequence      aashriton
+ actual output       	आश्रितों
+ predicted output    आश्रितों
+
+
+input sequence      raghavan
+ actual output       	राघवन
+ predicted output    राघवन
+
+
+input sequence      preranaapuree
+ actual output       	प्रेरणापुरी
+ predicted output    प्रेरणापुरी
+
+
+input sequence      mahasinh
+ actual output       	महासिंह
+ predicted output    महासिंह
+
+
+input sequence      talaashegaa
+ actual output       	तलाशेगा
+ predicted output    तलाशेगा
+
+
+input sequence      saharsa
+ actual output       	सहरसा
+ predicted output    सहरसा
+
+
+input sequence      moshe
+ actual output       	मोशे
+ predicted output    मोशे
+
+
+input sequence      lohaati
+ actual output       	लोहाती
+ predicted output    लोहाती
+
+
+input sequence      siwan
+ actual output       	सिवान
+ predicted output    सिवान
+
+
+input sequence      hikariko
+ actual output       	हिकारिको
+ predicted output    हिकारिको
+
+
+input sequence      nrutyon
+ actual output       	नृत्यों
+ predicted output    नृत्यों
+
+
+input sequence      charit
+ actual output       	चरित
+ predicted output    चरित
+
+
+input sequence      asahi
+ actual output       	असाही
+ predicted output    असाही
+
+
+input sequence      dhanshyaam
+ actual output       	धनश्याम
+ predicted output    धनश्याम
+
+
+input sequence      lahanaa
+ actual output       	लहना
+ predicted output    लहना
+
+
+input sequence      dwarikesh
+ actual output       	द्वारिकेश
+ predicted output    द्वारिकेश
+
+
+input sequence      harpaal
+ actual output       	हरपाल
+ predicted output    हरपाल
+
+
+input sequence      premeshwar
+ actual output       	प्रेमेश्वर
+ predicted output    प्रेमेश्वर
+
+
+input sequence      prapt
+ actual output       	प्राप्त
+ predicted output    प्राप्त
+
+
+input sequence      naksalwaad
+ actual output       	नक्सलवाद
+ predicted output    नक्सलवाद
+
+
+input sequence      kanthahar
+ actual output       	कंठहार
+ predicted output    कंठहार
+
+
+input sequence      oxide
+ actual output       	ऑक्साइड
+ predicted output    ऑक्साइड
+
+
+input sequence      khairati
+ actual output       	खैराती
+ predicted output    खैराती
+
+
+input sequence      deshke
+ actual output       	देशके
+ predicted output    देशके
+
+
+input sequence      seho
+ actual output       	सेहो
+ predicted output    सेहो
+
+
+input sequence      belcha
+ actual output       	बेलचा
+ predicted output    बेलचा
+
+
