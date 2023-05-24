@@ -1,14 +1,14 @@
 
-# Aksharantar Transliteration using Attention Mechanism
+# Aksharantar Transliteration without Attention Mechanism
 This repository contains an implementation of a Recurrent Neural Network (RNN) model for transliterating words from English to Hindi, specifically using the Aksharantar dataset. The model in this version incorporates the attention mechanism, which enhances the transliteration performance.
 
 # Dataset
 The Aksharantar dataset, consisting of English words and their corresponding Hindi transliterations, was used for training and evaluation. The dataset can be found here.
 
 # Model Architecture
-The transliteration model with attention mechanism improves upon the traditional encoder-decoder architecture. Attention allows the model to focus on different parts of the input word while generating the transliteration. This mechanism enables the model to better align and aligns the source and target sequences, resulting in improved accuracy.
+The transliteration model with attention mechanism improves upon the traditional encoder-decoder architecture. . This mechanism enables the model to better align and aligns the source and target sequences, resulting in improved accuracy.
 
-The Encoder class is responsible for encoding the input word into a hidden state, while the Attention  dynamically computes the attention weights. The Decoder class combines the attention context with the hidden state to generate the transliterated output. 
+The Encoder class is responsible for encoding the input word into a hidden state. The Decoder class combine output  with the hidden state to generate the transliterated output. 
 
 The Seq2Seq class utilizes the Encoder, Attention, and Decoder classes to perform the transliteration task. It combines all the components and handles the training and inference processes.
 
